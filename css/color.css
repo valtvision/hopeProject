@@ -48,7 +48,7 @@ body {
 .post .image-box .slick-next:hover:after,
 .post .image-box .slick-prev:hover:after,
 .f1 .wpcf7-form input[type="submit"]:hover,
-.masonry-holder .masonry .caption .icons a:hover {color: rgb(114,92,186); }
+.masonry-holder .masonry .caption .icons a:hover {color: black }
 
 .loader > div,
 .promo h2:after,

@@ -1685,7 +1685,7 @@ a:focus {
 	bottom: 0;
 	width: 100%;
 	content: "";
-	background: #252525;
+	background: rgb(114, 92, 186);;
 	z-index: -1;
 }
 
@@ -1760,7 +1760,7 @@ a:focus {
 	bottom: 0;
 	width: 113.7%;
 	content: "";
-	background: #252525;
+	background: #FFAB40;
 	z-index: -1;
 }
 
@@ -1803,7 +1803,7 @@ a:focus {
 	bottom: 0;
 	width: 100%;
 	content: "";
-	background: #252525;
+	background: rgb(114, 92, 186);
 	z-index: -1;
 }
 
@@ -2321,7 +2321,7 @@ a:focus {
 	bottom: 0;
 	width: 55.5%;
 	content: "";
-	background: #252525;
+	background: white;
 	z-index: -1;
 }
 
@@ -2460,7 +2460,7 @@ a:focus {
 
 .info .txt-frame .text-box h2 a {
 	text-decoration: none;
-	color: #252525;
+	color: rgb(114,92,186);
 	-webkit-transition: all ease .5s;
 	transition: all ease .5s;
 }
