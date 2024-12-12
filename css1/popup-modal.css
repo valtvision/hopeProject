@@ -1,0 +1,31 @@
+#popup-modal h4 {
+  font: normal 16px/24px GothamBook;
+  padding-left: 0px;
+  position: relative;
+}
+#popup-modal h4::before {
+  display:none;
+  content: "";
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 0px;
+  height: 2px;
+  width: 20px;
+  background-color: #062f4f;
+}
+#popup-modal .form-control {
+  height: 50px;
+  background-color: rgba(0, 0, 0, 0.05);
+  border: none;
+}
+#popup-modal .form-control:focus, #popup-modal .form-control:hover {
+  border: none;
+  outline-color: transparent;
+  box-shadow: none;
+}
+#popup-modal .modal-footer button {
+  background-color: #813772;
+  text-transform: uppercase;
+  color: #fff;
+}

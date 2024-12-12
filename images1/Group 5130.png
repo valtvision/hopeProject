@@ -1,0 +1,1697 @@
+<html lang="en"><head>
+    <meta charset="utf-8">
+    
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="icon" type="image/x-icon" href="../favicon.ico">
+    <!-- <meta name="robots" content="noindex, nofollow"> -->
+    <link rel="stylesheet" href="../css/bootstrap.min.css" crossorigin="anonymous" id="css_1" disabled="">
+    <link rel="stylesheet" href="../css/owl.carousel.min.css" id="css_2" disabled="">
+    <link rel="stylesheet" href="../css/owl.theme.default.min.css" id="css_3" disabled="">
+
+    <link rel="stylesheet" href="../css/common.css" id="css_4" disabled="">
+    <link rel="stylesheet" href="../css/styles.css" id="css_5" disabled="">
+    <link rel="stylesheet" href="../css/responsive.css">
+	
+    <style>
+        .social-media-footer{
+            display: flex;
+            align-items: center;
+            justify-content: flex-start;
+        }
+        .social-media-footer a i{
+            font-size: 18px;
+            padding: 20px 20px 20px 0px;
+        }
+    </style>
+
+    <script src="../js/jquery-3.5.1.min.js" crossorigin="anonymous"></script>
+
+    <style>
+        .nav-menu-list{
+            position: relative;
+            justify-content: flex-end !important;
+            right: -1.5rem;
+        }
+        .nav-menu-list > li > a{
+            position: relative;
+        }
+        .nav-menu-list > li > a::before{
+            transition: all 0.3s linear;
+            position: absolute !important;
+            content: '';
+            height: 3px;
+            width: 0%;
+            top: 9px;
+            background-color: #813772;
+        }
+        .nav-menu-list > li > a.active::before{
+            position: absolute;
+            content: '';
+            height: 3px;
+            width: 100%;
+            top: 9px;
+            background-color: #813772;
+        }
+        .nav-menu-list > li > a:hover{
+            color: #813772 !important;
+        }
+        .nav-menu-list > li > a:hover::before{
+            position: absolute;
+            content: '';
+            height: 3px;
+            width: 100%;
+            top: 9px;
+            background-color: #813772;
+        }
+        @media  only screen and (max-width: 600px){
+            .nav-menu-list{
+                right: 0rem;
+            }
+            .nav-menu-list > li a{
+                font-size: 16px !important;
+            }
+            .nav-menu-list > li > a::before{
+                top: 23px !important;
+            }
+            .nav-menu-list > li > a.active::before{
+                top: 23px !important;
+            }
+            .headerwrap nav ul li{
+                padding: 5px 20px !important;
+            }
+        }
+    </style>
+
+<meta name="google-site-verification" content="G6Ps-khFz8Q-KDHGH5l4AkaRJwvCaXSlR0NmGqWXRtc">
+<script>
+	setTimeout(function(){
+		(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-5RPZKS7');
+	}, 2000);
+</script>
+<!-- End G T M -->
+
+</head>
+<body><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5RPZKS7" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+<link rel="stylesheet" href="../css/font-awesome.min.css" id="css_7" disabled="">
+
+
+<header class="headerwrap">
+	<div class="topmenuwrapper" style="background-color: #303030;">
+		<div class="container">
+			<div class="row align-items-center">
+	    		<div class="col-md-12 col-lg-12 d-flex justify-content-end">
+	    			<div class="mr-3 top-menusleft">
+	    				<ul class="list-unstyled">
+	    					<li>
+	    						<a href="/pay-registration">PAY REGISTRATION FEE</a>
+	    					</li>
+	    					<!-- <li>
+	    						<a href="/appointment">APPOINTMENT</a>
+	    					</li> -->
+                            
+                            <li>
+	    						<a href="/press-and-media">PRESS &amp; MEDIA</a>
+	    					</li>
+	    					<li>
+	    						<a href="/faculty-list-area-wise">FACULTY</a>
+	    					</li>
+	    					<li>
+	    						<a href="/alumni">ALUMNI</a>
+	    					</li>
+	    					<li>
+	    						<a href="https://learnzilla.aaft.net/web/login">STUDENT LOGIN</a>
+	    					</li>
+	    				</ul>
+                    </div>
+                    <div class="top-menusleft topright-menu">
+	    				<ul class="list-unstyled">
+	    					<li>
+	    						<a href="mailto:help@aaft.com"> <img src="mail.svg" alt="mail" class="img-fluid"> <span>help@aaft.com</span></a>
+	    					</li>
+	    					<!--<li>
+	    						<a href="tel:18001026066"> <img src="https://aaft.com/assets/Images/call.svg" alt="mail" class="img-fluid"> <span>18001026066</span></a>
+	    					</li>-->
+	    					<li>
+	    						<a href="tel:09811014536"> <img src="call.svg" alt="mail" class="img-fluid"> <span>09811014536 </span></a> 
+	    					</li>
+	    					<li>
+	    						<a href="tel:09811013654"><span>09811013654</span></a>
+	    					</li>
+	    					
+	    					
+	    				</ul>
+	    			</div>
+	    		</div>
+	    		
+	    	</div>
+		</div>
+	</div>
+    <div class="container">
+
+      	<div class="row align-items-center">
+	        <div class="col-9 col-sm-9 col-md-2">
+	          <div class="logowrap" style="width:157px;">
+				<a href="/">
+					<!--<img src="https://aaft.com/assets/Images/aaft-logo.png" class="img-fluid" alt="aaft logo"/>-->
+					
+					<!-- Generator: Adobe Illustrator 28.4.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+					<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 614.01 156.52" style="enable-background:new 0 0 614.01 156.52;" xml:space="preserve">
+					<style type="text/css">
+					.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#ED2727;}
+					</style>
+					<g>
+					<g>
+					<g>
+					<polygon class="st0" points="248.46,14.29 305.74,142.22 341.02,142.22 283.74,14.29 "></polygon>
+					<polygon class="st0" points="182.61,142.22 285.87,142.22 234.24,26.93 "></polygon>
+					<polygon class="st0" points="12.32,142.22 115.57,142.22 63.95,26.93 "></polygon>
+					<polygon class="st0" points="78.16,14.29 135.45,142.22 170.73,142.22 113.45,14.29 "></polygon>
+					<polygon class="st0" points="601.69,14.29 552.54,14.29 552.53,14.29 509.89,14.29 509.89,142.22 552.54,142.22 552.54,14.3
+					601.69,53.51 "></polygon>
+					<polygon class="st0" points="460.74,53.51 509.89,14.29 460.74,14.29 "></polygon>
+					<polygon class="st0" points="395.55,14.29 352.9,14.29 352.9,142.22 395.55,142.22 395.55,73.01 420.82,93.38 420.82,52.63
+					395.55,73 395.55,14.29 448.86,53.51 448.86,14.29 395.55,14.29 "></polygon>
+					</g>
+					</g>
+					</g>
+					</svg>
+				</a>
+			</div>
+	        </div>
+	        <div class="col-3 col-sm-3 col-md-10">
+	          <button class="nav-icon "><span></span><span></span><span></span> </button>
+	          <nav>
+	            <ul class="list-unstyled nav-list nav-menu-list">
+	              <li>
+	                <a href="#">Schools</a><span class="dropplus_icon"></span>
+	                <ul class="list-unstyled dropdownmenu dropdownwidth">
+	                  <li>
+	                    <a href="/schoolofcinema">Cinema</a>
+	                  </li>
+	                  <li>
+	                    <a href="/schoolofmasscommunication">Journalism &amp; Mass Communication</a>
+	                  </li>
+	                  <li>
+	                    <a href="/schoolofphotography">Photography</a>
+	                  </li>
+	                  <li>
+	                    <a href="/schoolofadvertising">Advertising, PR &amp; Events</a>
+	                  </li>
+	                  <li>
+	                    <a href="/schooloffinearts">Music</a>
+	                  </li>
+	                  <li>
+	                    <a href="/schooloffashion">Fashion Design</a>
+	                  </li>
+					  <li>
+	                    <a href="/schoolofinterior">Interior Design</a>
+	                  </li>
+	                  <li>
+	                    <a href="/schoolofanimation">Animation</a>
+	                  </li>
+	                  <li>
+	                    <a href="/schoolofdatascience">Data Science</a>
+	                  </li>
+	                  <!--li>
+	                    <a href="/school-of-health-wellness">Health & Wellness</a>
+	                  </li-->
+	                  <li>
+	                    <a href="/schoolofdigitalmarketing">Digital Marketing</a>
+	                  </li>
+	                  <li>
+	                    <a href="/school-of-hospitality-and-tourism">Hospitality &amp; Tourism</a>
+	                  </li>
+					  <li>
+	                    <a href="/schooloffineart">Fine Arts</a>
+	                  </li>
+					  <li>
+	                    <a href="/school-of-health-wellness">Health &amp; Wellness</a>
+	                  </li>
+					  <li>
+	                    <a href="/schoolofdramaacting">Drama &amp; Acting</a>
+	                  </li>
+
+	                </ul>
+	              </li>
+	              <li>
+	                <a href="/programs">Programs</a><span class="dropplus_icon"></span>
+	                <ul class="list-unstyled dropdownmenu megamenu">
+
+
+	                  <div class="customecontainer">
+					    <ul id="tabs" class="nav nav-tabs" role="tablist">
+					        <li class="nav-item">
+					            <a id="tab-A" href="#pane-A" class="nav-link active" data-toggle="tab" role="tab">Undergraduate Program</a>
+
+							</li>
+					        <li class="nav-item">
+					            <a id="tab-B" href="#pane-B" class="nav-link" data-toggle="tab" role="tab">Post Graduate Program</a>
+					        </li>
+					        <li class="nav-item">
+					            <a id="tab-C" href="#pane-C" class="nav-link" data-toggle="tab" role="tab">Diploma Program</a>
+					        </li>
+					        <li class="nav-item">
+					            <a id="tab-D" href="#pane-D" class="nav-link" data-toggle="tab" role="tab">Short Term Program</a>
+					        </li>
+					    </ul>
+
+
+					    <div id="content" class="tab-content" role="tablist">
+					        <div id="pane-A" class="card tab-pane fade show active" role="tabpanel" aria-labelledby="tab-A">
+					            <div class="card-header" role="tab" id="heading-A">
+					                <h5 class="mb-0">
+                                        
+                                        <!-- Note: `data-parent` removed from here -->
+					                    <a data-toggle="collapse" href="#collapse-A" aria-expanded="true" aria-controls="collapse-A" class="collapsed">
+					                        Undergraduate Program
+					                    </a>
+					                </h5>
+					            </div>
+
+                                
+                                <!-- Note: New place of `data-parent` -->
+					            <div id="collapse-A" class="collapse " data-parent="#content" role="tabpanel" aria-labelledby="heading-A">
+					                <div class="card-body">
+					                    <div class="row">
+											<div class="col-md-4">
+												<div class="dropdown-tabcont">
+													<ul class="list-unstyled">
+														<li>Cinema</li>
+														<li><a href="/schoolofcinema/programmes/bsc-in-cinema-diploma-in-acting">B.Sc in Cinema (Specialization In Acting)</a></li>
+														<li><a href="/schoolofcinema/b-sc-cinema-diploma-in-cinematography">B.Sc in Cinema (Specialization In Cinematography)</a></li>
+														<li><a href="/schoolofcinema/b-sc-cinema-diploma-in-direction">B.Sc in Cinema (Specialization In Direction)</a></li>
+														<li><a href="/bsc-in-cinema-and-diploma-in-Post-Production(Video)">B.Sc in Cinema (Specialization In Post-Production)</a></li>
+														<li><a href="/schoolofcinema/b-sc-cinema-diploma-in-sound-editing">B.Sc in Cinema (Specialization In Sound editing)</a></li>
+														<!-- <li><a href="/ba-in-acting-for-film-television-web-series">B.A. in Acting for Film, Television & Web Series</a></li> -->
+														<!-- <li><a href="/schoolofcinema/b-sc-cinema-diploma-in-post-production">B.Sc in Cinema + Diploma in Post-Production (Sound)</a></li> -->
+
+                                                    </ul>
+                                                    
+													<ul class="list-unstyled">
+                                                        <li>Music</li>
+                                                        
+														<li><a href="/ba-instrumental-music-guitar">BA Instrumental (Specialization In Classical/Western Instrument)</a></li>
+                                                        
+                                                        <li><a href="/ba-in-indian-classical-vocal">BA Vocal (Specialization In Classical/Western Vocal)</a></li>
+														<li><a href="/ba-in-performing-arts-music-production">Bachelor Of Performing Arts (Specialization In Music Production)</a></li>
+														<li><a href="/bsc-in-sound-design">B.Sc Sound Design</a></li>
+													</ul>
+
+													<ul class="list-unstyled">
+														<li>Still Photography</li>
+														<li><a href="/ba-in-still-photography">B.A in Still Photography</a></li>
+
+													</ul>
+												</div>
+											</div>
+											<div class="col-md-4">
+												<div class="dropdown-tabcont">
+													<ul class="list-unstyled">
+														<li>Animation</li>
+														<li><a href="/schoolofanimation/b-sc-in-game-design-development">B.Sc in Game Design and development</a></li>
+														<li><a href="/schoolofanimation/programmes/b-sc-in-3d-animation">B.Sc in Animation and Visual effects</a></li>
+														<li><a href="/bdes-3d-animation-and-visual-effects">B.Des in 3D Animation &amp; Visual Effects</a></li>
+
+
+													</ul>
+													<ul class="list-unstyled">
+														<li>Journalism and Mass Communication</li>
+														<li><a href="/ba-in-journalism-and-mass-communication">B.A. in Journalism and Mass Communication</a></li>
+
+													</ul>
+													<ul class="list-unstyled">
+														<li>Advertising, PR and Events</li>
+														<li><a href="/schoolofadvertising/ba-in-event-management">B.A. in Event Management</a></li>
+
+													</ul>
+													<ul class="list-unstyled">
+														<li>School of Digital Marketing</li>
+														<li><a href="/bsc-in-digital-marketing">B.Sc in Digital Marketing</a></li>
+													</ul>
+													<ul class="list-unstyled">
+														<li>Data Science</li>
+														<li><a href="/bsc-in-data-science">B.Sc in Data Science</a></li>
+														<li><a href="/bsc-in-artificial-intelligence">B.Sc in Artificial Intelligence</a></li>
+													</ul>
+													<ul class="list-unstyled">
+														<li>Health &amp; Wellness</li>
+														<!--<li><a href="/ba-in-yoga">BA in Yoga</a></li>-->
+														<li><a href="/bsc-in-nutrition-and-dietetics">B.Sc in Nutrition and Dietetics</a></li>
+													</ul>
+												</div>
+											</div>
+											<div class="col-md-4">
+												<div class="dropdown-tabcont">
+													<ul class="list-unstyled">
+														<li>Fashion Design</li>
+														<!--<li><a href="/schooloffashion/programmes/textile-design">B.Sc Textile Design</a></li>
+                                                        
+                                                        <li><a href="/schooloffashion/programmes/b-sc-jewellery-designing-and-manufacturing">B.Sc Jewelry Design</a></li>-->
+                                                        
+                                                        <li><a href="/schooloffashion/programmes/bachelor-in-fashion-communication-b-des-fashion-communication">B.Sc Fashion Communication</a></li>
+														<li><a href="/schooloffashion/programmes/fashion-design">B.Sc Fashion Design</a></li>
+														<li><a href="/schooloffashion/programmes/bachelor-in-fashion-design-b-des-fashion-design">B.Des Fashion Design </a></li>
+													</ul>
+													<ul class="list-unstyled">
+														<li>Interior Design</li>
+														<li><a href="/schoolofinterior/programmes/b-des-interior-design-diploma-in-interior-design">B.Des interior Design </a></li>
+														<li><a href="/schoolofinterior/programmes/b-sc-interior-design-diploma-in-interior-design">B.Sc Interior Design</a></li>
+													</ul>
+													<ul class="list-unstyled">
+														<li>Hospitality &amp; Tourism</li>
+														<li><a href="/bachelors-of-hotel-management">Bachelor of Hotel Management</a></li>
+														<li><a href="/bachelors-of-tourism-and-travel-management">Bachelor of Tourism and Travel Management</a></li>
+														<li><a href="/bsc-in-culinary-arts">B.Sc in Culinary Arts</a></li>
+													</ul> 
+													<ul class="list-unstyled">
+														<li>Fine Arts</li>
+														<li><a href="/ba-in-fineart">Bachelor in Fine Arts</a></li>
+													</ul> 
+													<ul class="list-unstyled">
+														<li>Drama &amp; Acting</li>
+														<li><a href="/ba-in-acting-for-film-tv-and-web-series">BA in Acting for Film, TV and Web Series</a></li>
+													</ul>
+
+												</div>
+											</div>
+										</div>
+					                </div>
+					            </div>
+					        </div>
+
+					        <div id="pane-B" class="card tab-pane fade" role="tabpanel" aria-labelledby="tab-B">
+					            <div class="card-header" role="tab" id="heading-B">
+					                <h5 class="mb-0">
+					                    <a class="collapsed" data-toggle="collapse" href="#collapse-B" aria-expanded="false" aria-controls="collapse-B">
+					                        Post Graduate Program
+					                    </a>
+					                </h5>
+					            </div>
+					            <div id="collapse-B" class="collapse" data-parent="#content" role="tabpanel" aria-labelledby="heading-B">
+					                <div class="card-body">
+					                    <div class="row">
+											<div class="col-md-4">
+												<div class="dropdown-tabcont">
+													<ul class="list-unstyled">
+														<li>Cinema</li>
+														<li><a href="/schoolofcinema/m-sc-cinema-pg-diploma-in-cinematography">M.Sc Cinema (Specialization In Cinematography)</a></li>
+														<li><a href="/msc-in-cinema-and-pg-diploma-in-Post-Production(Video)">M.Sc Cinema (Specialization In Post-Production)</a></li>
+														<li><a href="/schoolofcinema/m-sc-cinema-pg-diploma-in-sound-editing">M.Sc Cinema (Specialization In Sound Editing)</a></li>
+														<!-- <li><a href="/schoolofcinema/m-sc-cinema-pg-diploma-in-post-production">M.Sc Cinema + PG Diploma Post-Production (Sound)</a></li> -->
+														<li><a href="/schoolofcinema/programmes/msc-in-cinema-pg-diploma-in-acting">M.Sc Cinema (Specialization In Acting)</a></li>
+														<li><a href="/schoolofcinema/m-sc-cinema-pg-diploma-in-direction">M.Sc Cinema (Specialization In Direction)</a></li>
+
+													</ul>
+													<ul class="list-unstyled">
+														<li>Journalism and Mass Communication</li>
+														<li><a href="/schoolofmasscommunication/programmes/ma-mass-communication">M.A. in Journalism and Mass Communication</a></li>
+
+													</ul>
+													<ul class="list-unstyled">
+														<li>Digital Marketing</li>
+                                                        <li><a href="/msc-in-digital-marketing">M.Sc in Digital Marketing</a></li>
+													</ul>
+													<ul class="list-unstyled">
+														<li>Drama &amp; Acting</li>
+                                                        <li><a href="/ma-in-acting-for-film-tv-and-web-series">MA in Acting for film, TV and web series </a></li>
+													</ul>
+													<!--ul class="list-unstyled">
+														<li>Health and Wellness</li>
+														<li><a href="/ma-in-yoga">MA in Yoga</a></li>
+													</ul-->
+												</div>
+											</div>
+											<div class="col-md-4">
+												<div class="dropdown-tabcont">
+													<ul class="list-unstyled">
+														<li>Animation</li>
+                                                        
+                                                        <li><a href="/msc-in-game-design-and-development">M.Sc in Game Design and Development</a></li>
+														<li><a href="/schoolofanimation/programmes/m-sc-in-3d-animation">M.Sc in Animation and VFX</a></li>
+
+													</ul>
+													<ul class="list-unstyled">
+														<li>Music</li>
+                                                        
+                                                        <li><a href="/ma-classical-vocal">MA Vocal (Specialization In Classical/Western Vocal)</a></li>
+														<li><a href="/schooloffinearts/programmes/master-in-performing-arts">Master Of Performing Arts (Specialization In Music Production)</a></li>
+														<!--li><a href="/ma-instrumental">MA Instrumental Music (Specialization In Classical/Western Instrument)</a></li-->
+													</ul>
+													<ul class="list-unstyled">
+														<li>Advertising, PR and Events</li>
+                                                        
+                                                        <li><a href="/schoolofadvertising/programmes/ma-advertising-brand-communication">M.A. in Advertising and Brand Communication</a></li>
+                                                        
+                                                        <li><a href="/schoolofadvertising/programmes/ma-public-relations-events">M.A. in PR and Events</a></li>
+
+													</ul>
+													<ul class="list-unstyled">
+														<li>Fine Arts</li>
+														<li><a href="/master-of-fine-arts">Masters of Fine Arts&nbsp;</a></li>
+													</ul>
+													
+												</div>
+											</div>
+											<div class="col-md-4">
+												<div class="dropdown-tabcont">
+													<ul class="list-unstyled">
+														<li>Fashion Design</li>
+                                                        
+														<li><a href="/schooloffashion/programmes/masters-in-fashion-design-2-yrs">M.Sc Fashion Design</a></li>
+
+													</ul>
+													<ul class="list-unstyled">
+														<li>Interior Design</li>
+                                                        <li><a href="/msc-interior-design">M.Sc Interior Design</a></li>
+													</ul>
+													<ul class="list-unstyled">
+														<li>Still Photography</li>
+														<li><a href="/ma-in-still-photography">MA in Still Photography</a></li>
+													</ul>
+													<ul class="list-unstyled">
+														<li>Data Science</li>
+														<li><a href="/msc-in-data-science">M.Sc in Data Science</a></li>
+													</ul>
+													
+												</div>
+											</div>
+											<!-- <div class="col-md-4">
+												<div class="dropdown-tabcont">
+													<ul class="list-unstyled">
+														<li>Digital Marketing</li>
+                                                        <li><a href="/msc-in-digital-marketing">M.Sc in Digital Marketing</a></li>
+													</ul>
+													
+												</div>
+											</div> -->
+										</div>
+					                </div>
+					            </div>
+					        </div>
+
+					        <div id="pane-C" class="card tab-pane fade" role="tabpanel" aria-labelledby="tab-C">
+					            <div class="card-header" role="tab" id="heading-C">
+					                <h5 class="mb-0">
+					                    <a class="collapsed" data-toggle="collapse" href="#collapse-C" aria-expanded="false" aria-controls="collapse-C">
+					                        Diploma Program
+					                    </a>
+					                </h5>
+					            </div>
+					            <div id="collapse-C" class="collapse" role="tabpanel" data-parent="#content" aria-labelledby="heading-C">
+					                <div class="card-body">
+					                    <div class="row">
+					                    	<div class="col-md-4">
+					                    		<div class="dropdown-tabcont">
+													<ul class="list-unstyled">
+														<li>Cinema</li>
+														<li><a href="/schoolofcinema/programmes/diploma-in-post-production">Diploma in Post-Production</a></li>
+														<li><a href="/schoolofcinema/programmes/diploma-in-camera-lightning-techniques">Diploma in Camera and Lighting techniques</a></li>
+														<li><a href="/diploma-in-film-and-tv-production">Diploma in Film and TV production</a></li>
+														<!-- <li><a href="/diploma-in-acting-and-presentation">Diploma in Acting and Presentation</a></li> -->
+														<li><a href="/schoolofcinema/programmes/diploma-in-visual-communication">Diploma in Visual Communication</a></li>
+														<li><a href="/diploma-in-filmmaking">Diploma in Filmmaking</a></li>
+													</ul>
+                                                    
+                                                    
+                                                    <ul class="list-unstyled">
+														<li>Hospitality</li>
+														<li><a href="/diploma-in-hotel-management">Diploma in hotel Management</a></li>
+														<li><a href="/6-months-diploma-in-culinary-arts">Six Months Diploma in Culinary Arts</a></li>
+														<li><a href="/1-year-diploma-in-culinary-arts">1-Year Diploma in Culinary Arts</a></li>
+														<li><a href="/Diploma-in-tourism-and-travel">Diploma in tourism and travel</a></li>
+														<li><a href="diploma-in-bakery">Diploma in Bakery</a></li>
+
+													</ul> 
+													<ul class="list-unstyled">
+														<li>Still Photography</li>
+														<li><a href="/schoolofphotography/diploma-pg-diploma-in-photography">Diploma in Still Photography</a></li>
+
+													</ul>
+													<ul class="list-unstyled">
+														<li>Journalism and Mass Communication</li>
+														<li><a href="/pg-diploma-in-tv-journalism-and-communication">PG Diploma in TV Journalism and Communication</a></li>
+														<li><a href="/schoolofmasscommunication/programmes/pgd-in-tv-journalism-communication">Diploma in TV Journalism and Communication</a></li>
+													</ul>
+													
+												</div>
+					                    	</div>
+					                    	<div class="col-md-4">
+					                    		<div class="dropdown-tabcont">
+													<ul class="list-unstyled">
+														<li>Animation</li>
+														<li><a href="/diploma-in-animation-and-vfx">Diploma in Animation and VFX</a></li>
+														<li><a href="/diploma-in-unreal-engine">Diploma in Unreal Engine</a></li>
+														<!-- <li><a href="/diploma-in-multimedia-and-digital-marketing">Diploma in Multimedia and Digital Marketing</a></li> -->
+													</ul>
+													<ul class="list-unstyled">
+														<li>Music</li>
+														<!-- <li><a href="/diploma-in-tabla">Diploma in Tabla</a></li>
+														<li><a href="/diploma-in-guitar">Diploma in Guitar</a></li>
+														<li><a href="/diploma-in-drums">Diploma in Drums</a></li>
+														<li><a href="/diploma-in-piano">Diploma in Piano</a></li> -->
+                                                        
+                                                        <li><a href="/schooloffinearts/diploma-in-classical-vocal-instrument">Diploma In Indian Classical Vocal</a></li>
+														<li><a href="/diploma-in-music-production">Diploma In Music Production</a></li>
+														<!--li><a href="/diploma-in-djing">Advanced and Digital DJ</a></li-->
+														<!-- <li><a href="/diploma-in-violin">Diploma in Violin</a></li> -->
+														<li><a href="/diploma-in-westen-vocal-instrument">Diploma In Western Vocal (Specialization In Instrument)</a></li>
+														<li><a href="/diploma-in-instrumental-western-classical">Diploma In Instrumental (Western/Classical)</a></li>
+														<li><a href="/diploma-in-indian-classical-vocal-instrument">Diploma In Classical Vocal (Specialization In Instrument)</a></li>
+														<li><a href="/diploma-in-sound-design">Diploma in Sound Design</a></li>
+													</ul>
+													<ul class="list-unstyled">
+														<li>School of Digital Marketing</li>
+														<li><a href="/diploma-in-digital-marketing">Diploma in Digital Marketing</a></li>
+													</ul>
+													<ul class="list-unstyled">
+														<li>Drama &amp; Acting</li>
+														<li><a href="/diploma-in-acting-and-presentation">Diploma in Acting and Presentation</a></li>
+													</ul>
+													<!--ul class="list-unstyled">
+														<li>Health Wellness</li>
+														<li><a href="/diploma-in-nutrition-dietetics">Diploma in Nutrition and Dietetics</a></li>
+														<li><a href="/diploma-in-yoga">Diploma in Yoga</a></li>
+													</ul-->
+												</div>
+					                    	</div>
+					                    	<div class="col-md-4">
+					                    		<div class="dropdown-tabcont">
+													<ul class="list-unstyled">
+														<li>Fashion Design</li>
+														
+														<!--li><a href="/pg-diploma-in-textile-design">PG Diploma in Textile Design</a></li-->
+                                                        
+                                                        <li><a href="/schooloffashion/programmes/one-year-diploma-course-in-fashion-communication">PG Diploma in Fashion Communication</a></li>
+														<li><a href="/schooloffashion/programmes/one-year-diploma-course-in-fashion-design">PG Diploma in Fashion Design</a></li>
+														<!--li><a href="/diploma-in-jewelry-design">Diploma in Jewelry Design</a></li-->
+                                                        
+                                                        <!--li><a href="/schooloffashion/programmes/jewellery-design">PG Diploma in Jewelry Design</a></li-->
+                                                        
+                                                        <li><a href="/diploma-in-fashion-communication">Diploma in Fashion Communication</a></li>
+														<li><a href="/schooloffashion/fashion-at-aaft">Diploma in Fashion Design</a></li>
+														<li><a href="/schooloffashion/programmes/six-months-in-makeup-styling">Diploma in Makeup and Styling</a></li>
+                                                        
+                                                        <!--li><a href="/schooloffashion/programmes/one-year-diploma-course-in-textile-design">Diploma in Textile Design</a></li-->
+
+													</ul>
+													<ul class="list-unstyled">
+														<li>Interior Design</li>
+														<li><a href="/diploma-in-interior-design">Diploma in Interior Design</a></li>
+														<li><a href="/schoolofinterior/programmes/pg-diploma-diploma-in-interior-design">PG Diploma in Interior Design</a></li>
+														</ul>
+													<ul class="list-unstyled">
+														<li>Advertising PR and Events</li>
+														<li><a href="/diploma-in-advertising-and-brand-communication">Diploma in Advertising and Brand Communication</a></li>
+														<li><a href="/diploma-in-event-management">Diploma in Event Management</a></li>
+														<li><a href="/diploma-in-pr-and-events">Diploma in PR and Events</a></li>
+													</ul>
+													<ul class="list-unstyled">
+														<li>Data Science</li>
+														<li><a href="/diploma-in-data-science">Diploma in Data Science</a></li>
+													</ul>
+												</div>
+					                    	</div>
+					                    </div>
+					                </div>
+					            </div>
+					        </div>
+
+					        <div id="pane-D" class="card tab-pane fade" role="tabpanel" aria-labelledby="tab-D">
+					            <div class="card-header" role="tab" id="heading-D">
+					                <h5 class="mb-0">
+					                    <a class="collapsed" data-toggle="collapse" href="#collapse-D" aria-expanded="false" aria-controls="collapse-D">
+					                        Short Term Program
+					                    </a>
+					                </h5>
+					            </div>
+					            <div id="collapse-D" class="collapse" role="tabpanel" data-parent="#content" aria-labelledby="heading-D">
+					                <div class="card-body">
+					                    <div class="row">
+					                    	<div class="col-md-4">
+					                    		<div class="dropdown-tabcont">
+													<ul class="list-unstyled">
+														<li>Cinema</li>
+														<li><a href="/schoolofcinema/programmes/screenplay-writing">Certificate in Screenplay Writing</a></li>
+														<li><a href="/schoolofcinema/video-editing-sound-recording">Certificate in Video Editing and Sound Recording</a></li>
+														<li><a href="/schoolofcinema/production-direction-tv-journalism">Certificate in Production Direction and TV journalism</a></li>
+														<li><a href="/certificate-in-camera-and-lighting-techniques">Certificate in Camera and Lighting Techniques</a></li>
+														<!-- <li><a href="/schoolofcinema/programmes/acting-presentation">Certificate Course in Acting and Presentation (3 months)</a></li> -->
+
+													</ul>
+													<ul class="list-unstyled">
+														<li>Music</li>
+														<li><a href="/diploma-in-sound-designing-3months">Certification In Sound Designing</a></li>
+														<li><a href="/diploma-in-music-production-3months">Certification In Music Production</a></li>
+														<li><a href="/diploma-in-djing">Advanced and Digital DJ</a></li>
+													</ul>
+													
+												</div>
+					                    	</div>
+					                    	<div class="col-md-4">
+												<div class="dropdown-tabcont">
+													<ul class="list-unstyled">
+														<li>Still Photography</li>
+														<li><a href="/certificate-in-still-photography">Certificate in Still Photography</a></li>
+													</ul>
+													<ul class="list-unstyled">
+														<li>School of Digital Marketing</li>
+														<li><a href="/certificate-in-digital-marketing">Certificate in Digital Marketing</a></li>
+													</ul>
+													<ul class="list-unstyled">
+														<li>Animation</li>
+														<li><a href="/certificate-in-graphic-design">Certificate in Graphic Design</a></li>
+													</ul>
+													<ul class="list-unstyled">
+														<li>Fashion</li>
+														<li><a href="/schooloffashion/programmes/modelling">Certificate in Modelling</a></li>
+													</ul>
+													
+												</div>
+					                    	</div>
+                                            
+                                            
+                                            <div class="col-md-4">
+												<div class="dropdown-tabcont">
+													<ul class="list-unstyled">
+														<li>Journalism and Mass Communication</li>
+														<li><a href="/schoolofmasscommunication/radio-jockey-rj">Radio Production and Jockeying</a></li>
+														<li><a href="/schoolofmasscommunication/news-anchoring-reporting">News Anchoring</a></li>
+
+													</ul>
+													<ul class="list-unstyled">
+														<li>Hospitality &amp; Tourism</li>
+														<li><a href="/certificate-course-in-bakery">Certificate Course in Bakery</a></li>
+													</ul>
+													<ul class="list-unstyled">
+														<li>Drama &amp; Acting</li>
+														<li><a href="/schoolofcinema/programmes/acting-presentation">Certificate Course in Acting and Presentation (3 months)</a></li>
+													</ul>
+												</div>
+					                    	</div> 
+					                    </div>
+					                </div>
+					            </div>
+					        </div>
+					    </div>
+					</div>
+
+	                </ul>
+	              </li>
+	              <li>
+	                <a href="#">Admission</a><span class="dropplus_icon"></span>
+	                <ul class="list-unstyled dropdownmenu dropdownwidth">
+						<li>
+	                    <a href="/apply-now">How to Apply</a>
+	                  </li>
+	                  <li>
+					  	<a href="/pay-registration">Pay Registration Fee</a>
+	                  </li>
+
+                      
+                      <!-- <li>
+                        
+                        <a href="/schoolofcinema/admissions/fees-structure">Fees and Guidelines</a>
+	                  </li> -->
+					  <li>
+	                    <a href="/fee-structure-enquiry">Fees Structure Enquiry</a>
+	                  </li>
+					 <li>
+	                    <a href="/academic-calender">Academic Calendar</a>
+	                  </li>
+	                  <li>
+						  <!--<a href="https://aaft.com/ad/diploma/diploma.php">Pay Diploma Fees</a>-->
+						<a href="https://aaft.com/ad/icici/diploma.php">Pay Diploma Fees</a>
+	                  </li>
+	                  <li>
+	                    <a href="https://aaft.com/ad/hdfc/payment.php">Pay Degree Program Fees</a>
+	                  </li>
+					  <!-- <li>
+	                    <a href="http://m.p-y.tm/asms_web">Short Term payment (Paytm)</a> 
+	                  </li> -->
+	                  <li>
+	                    <a href="/education-loan">Education Loan</a>
+	                  </li>
+
+	                  <li>
+	                    <a href="/international-student">International students</a>
+	                  </li>
+	                  <!--li>
+	                    <a href="/appointment">Book an Appointment</a>
+	                  </li-->
+	                </ul>
+	              </li>
+
+	              <li>
+	                <a href="#">Life At AAFT</a><span class="dropplus_icon"></span>
+	                <ul class="list-unstyled dropdownmenu dropdownwidth">
+	                  <li>
+	                    <a href="/life-at-aaft">Student Life</a>
+	                  </li>
+	                  <li>
+	                    <a href="/aaft-life-campus">Our Campus</a>
+	                  </li>
+					  <li>
+	                    <a href="/hostel-facility">Our Hostel</a>
+	                  </li>
+	                  <!--li>
+	                    <a href="/health-and-wellness">Health and Wellness</a>
+	                  </li-->
+	                  <li>
+	                    <a href="/events">Events</a>
+	                  </li>
+	                  
+	                  <li>
+	                    <a href="/celebrity-interactions">Celebrity Interaction</a>
+	                  </li>
+	                </ul>
+	              </li>
+	              <li>
+	                <a href="#">Placements And Alumni</a><span class="dropplus_icon"></span>
+	                <ul class="list-unstyled dropdownmenu dropdownwidth">
+	                  <!--<li>
+	                    <a href="/all-placements">Placement Center</a>
+	                  </li>
+	                  <li>
+	                    <a href="/recent-placements">Recent Placements</a>
+	                  </li>
+	                  <li>
+	                    <a href="/alumni">Our Alumni</a>
+	                  </li>
+	                  <li>
+	                    <a href="/our-team">Our Placement Team</a>
+	                  </li>
+	                  <li>
+	                    <a href="/placement-workshop">Placement Workshop</a>
+	                  </li>-->
+					  <li>
+	                    <a href="/placement">About Placement &amp; CRC</a>
+	                  </li>
+					  <li>
+	                    <a href="/edge-pedagogy">Our Pedagogy</a>
+	                  </li>
+					  <li>
+	                    <a href="/student-placement">Placements 2023-24</a>
+	                  </li>
+					  <li>
+	                    <a href="/recruiters">Recruiters</a>
+	                  </li>
+					  <li>
+	                    <a href="/campus-interviews">Campus Interviews</a>
+	                  </li>
+					 		  
+					  <li>
+	                    <a href="/placement-team">Placement Team</a>
+	                  </li>
+					  <li>
+					  	<a href="/alumni">Our Alumni</a>
+	                  </li>
+
+
+	                </ul>
+	              </li>
+	              <li>
+	                <a href="">About AAFT</a><span class="dropplus_icon"></span>
+	                <ul class="list-unstyled dropdownmenu dropdownwidth">
+	                  <li>
+	                    <a href="/about-us">About us</a>
+	                  </li>
+					  <li>
+	                    <a href="/our-group">Our Group</a>
+	                  </li>
+	                  <li>
+	                    <a href="/history">History</a>
+	                  </li>
+	                  <!-- <li>
+	                    <a href="/core-advisory">Our Core Advisory</a>
+	                  </li> -->
+					  
+	                  <li>
+	                    <a href="/about-us-leadership">Leadership</a>
+	                  </li>
+					  <li>
+	                    <a href="/advisory-council">Advisory Council</a>
+	                  </li>
+					  <li>
+	                    <a href="/faculty-list-area-wise">Our Faculty</a>
+	                  </li>
+	                  
+	                  <li>
+	                    <a href="/research-and-innovations">Research and Innovation</a>
+	                  </li>
+					  <li>
+	                    <a href="/list-of-awards">Recognition &amp; Awards</a>
+	                  </li>
+					  <li>
+	                    <a href="/affiliations-memberships">Affiliations and Memberships</a>
+	                  </li>
+					  
+					  <li>
+	                    <a href="/school-wise-industry-dean">Industry Deans</a>
+	                  </li>
+
+					  <li>
+	                    <a href="/international-academic-partners">International Academic Partners</a>
+	                  </li> 
+	                </ul>
+	              </li>
+	              <li>
+	                <a href="/contact-us">Contact us</a>
+                  </li>
+                
+	              <li class="d-lg-none">
+	                <a href="/apply-online">Apply Online</a>
+	              </li>
+	              <li class="d-lg-none">
+	                <a href="/press-and-media">Press &amp; Media</a>
+	              </li>
+	              <li class="d-lg-none">
+	                <a href="/faculty-list-area-wise">Faculty</a>
+	              </li>
+	              <li class="d-lg-none">
+	                <a href="/alumni">Alumni</a>
+	              </li>
+	              <li class="d-lg-none">
+	                <a href="https://learnzilla.aaft.net/web/login">Student Login</a>
+	              </li>
+
+	            </ul>
+	          </nav>
+
+	        </div>
+      	</div>
+    </div>
+  </header>
+  <div class="header-top-space"></div>
+
+<script>
+
+  $('.nav-icon').click(function(){
+  $(this).toggleClass('active');
+  $('nav').toggleClass('active-menu');
+  });
+
+  //Add dropdown + - icon script
+  $(document).ready(function(){
+    $(".dropplus_icon").click(function() {
+    $(this).parent().toggleClass('selected');
+    $(this).parent().siblings().removeClass('selected');
+    });
+
+   });
+</script>
+<!-- Clarity tracking code https://aaft.com -->
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "b3esfm0a63");
+</script>
+
+
+
+
+
+    <meta charset="utf-8">
+    <title>Error! 404</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="icon" type="image/x-icon" href="../favicon.ico">
+
+    <link rel="stylesheet" href="../css/bootstrap.min.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/owl.carousel.min.css">
+    <link rel="stylesheet" href="../css/owl.theme.default.min.css">
+
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css"> -->
+
+    <link rel="stylesheet" href="../css/common.css">
+    <link rel="stylesheet" href="../css/styles.css">
+    <link rel="stylesheet" href="../css/responsive.css">
+
+    
+
+
+
+<section>
+    <div class="container">
+    <div class="text-center pt-5">
+        
+        <div class="flex-1 contact-form">
+                        <div class="form-card form-card-homepage sticky-top" style="z-index:1 !important;">
+                            <h1 class="pt-5"><b>Error! 404</b></h1>
+                            <br>&nbsp;<br>
+                            <h2 class="text-center" style="font-size:30px;">Contact <span>Us</span></h2>
+                            <style>
+.form-card-homepage .input-label{display: none !important;}
+.form-card-homepage	.flex-wrap{margin-bottom: 0 !important;}
+</style>
+<form method="post" action="/">
+<input type="hidden" name="_token" value="ZiCn2aFu60rWcpzu2ZAstihbFf4fuikWiBkYELRd">    <div class="flex-wrap form-group d-flex">
+        <label class="w-100 input-label">Your Details</label>
+        <span class="input-half">
+            <input id="txtNameCon" class="form-control" placeholder="Name" type="text" name="firstname" required="">
+            <input type="hidden" name="lastname" value="-">
+        </span>
+        <span class="input-half">
+            <input id="txtEmailCon" class="form-control" placeholder="Email Address" type="email" name="email" required="">
+        </span>
+        <span class="input-half">
+            <input id="txtPhoneCon" class="form-control" name="phone" type="text" pattern="[0-9]{10}" minlength="10" maxlength="10" placeholder="Mobile (10 Digits)*" onkeypress="return IsNumeric(event);" ondrop="return false;" onpaste="return false;" required="">
+        </span>
+
+        <span class="input-half">
+            <select id="txtEduCon" class="form-control custom-select" name="qualification" required="">
+                <option value="">Select Qualification</option>
+                                 
+                <option value="1">Below 12th</option>
+                 
+                <option value="2">12th Pursuing</option>
+                 
+                <option value="3">Graduation Pursuing</option>
+                 
+                <option value="4">Graduate</option>
+                 
+                <option value="5">Post-Graduation Pursuing</option>
+                 
+                <option value="6">Post Graduate</option>
+                            </select>
+        </span>
+
+        <span class="input-half">
+            <select id="txtStateCon" class="form-control custom-select" onchange="selectStateProg(event)" name="state" required="">
+                <option value="">Select State</option>
+                                 
+                <option value="1">Andaman and Nicobar</option>
+                 
+                <option value="2">Andhra Pradesh</option>
+                 
+                <option value="3">Arunachal Pradesh</option>
+                 
+                <option value="4">Assam</option>
+                 
+                <option value="5">Bihar</option>
+                 
+                <option value="6">Chandigarh</option>
+                 
+                <option value="7">Chhattisgarh</option>
+                 
+                <option value="8">Dadra and Nagar Haveli</option>
+                 
+                <option value="9">Daman and Diu</option>
+                 
+                <option value="10">Delhi</option>
+                 
+                <option value="11">Goa</option>
+                 
+                <option value="12">Gujarat</option>
+                 
+                <option value="13">Haryana</option>
+                 
+                <option value="14">Himachal Pradesh</option>
+                 
+                <option value="15">Jammu and Kashmir</option>
+                 
+                <option value="16">Jharkhand</option>
+                 
+                <option value="17">Karnataka</option>
+                 
+                <option value="18">Kerala</option>
+                 
+                <option value="19">Lakshadweep</option>
+                 
+                <option value="20">Madhya Pradesh</option>
+                 
+                <option value="21">Maharashtra</option>
+                 
+                <option value="22">Manipur</option>
+                 
+                <option value="23">Meghalaya</option>
+                 
+                <option value="24">Mizoram</option>
+                 
+                <option value="25">Nagaland</option>
+                 
+                <option value="26">Odisha</option>
+                 
+                <option value="27">Pondicherry</option>
+                 
+                <option value="28">Punjab</option>
+                 
+                <option value="29">Rajasthan</option>
+                 
+                <option value="30">Sikkim</option>
+                 
+                <option value="31">Tamil Nadu</option>
+                 
+                <option value="32">Telangana</option>
+                 
+                <option value="33">Tripura</option>
+                 
+                <option value="34">Uttar Pradesh</option>
+                 
+                <option value="35">Uttrakhand</option>
+                 
+                <option value="36">West Bengal</option>
+                            </select>
+        </span>
+
+        <span class="input-half">
+            <select id="txtCityCon" class="form-control custom-select" name="city" required="">
+                <option value="">Select City</option>
+                <option value="">Select State first</option>
+            </select>
+        </span>
+    </div>
+
+    <div class="flex-wrap form-group d-flex">
+        <label class="w-100 input-label">Program of Interest</label>
+        <span class="input-half">
+            <select id="txtSchoolCon" class="form-control custom-select" onchange="selectSchool(event)" name="school" required="">
+                <option value="" selected="">Select School</option>
+                                                <option value="1">Cinema</option>
+                                <option value="2">Journalism and Mass Communication</option>
+                                <option value="3">Music</option>
+                                <option value="4">Fashion Design</option>
+                                <option value="5">Interior Design</option>
+                                <option value="6">Animation</option>
+                                <option value="7">Still Photography</option>
+                                <option value="8">Digital Marketing</option>
+                                <option value="9">Advertising, PR and Events </option>
+                                <option value="14">Hospitality and Tourism</option>
+                                <option value="23">Health and Wellness</option>
+                                <option value="26">Fine Arts</option>
+                                <option value="28">Data Science</option>
+                                <option value="29">Drama and Acting</option>
+                            </select>
+        </span>
+
+        <span class="input-half">
+            <select id="txtProgramCon" class="form-control custom-select" name="program" required="">
+                <option value="" selected="">Select Program</option>
+                <option value="">Select school first</option>
+            </select>
+        </span>
+    </div>
+
+    <div class="flex-wrap form-group d-flex">
+        <label class="w-100 input-label">Where did you hear about AAFT ?</label>
+        <textarea id="txtCommentCon" class="h-auto form-control" placeholder="Comments or Query ?" rows="2" name="remark" required=""></textarea>
+        <input name="page" value="404 Page" type="hidden">
+		<input type="hidden" id="otpids2" name="otp" value="4326">
+		<input name="txtEduCon" value="2" type="hidden">
+        <input name="txtCommentCon" value="Remark" type="hidden">
+    </div>
+	
+	<div class="d-flex justify-content-center">
+        <p>I agree to receive information by signing up on AAFT</p>
+    </div>
+	
+    <div class="d-flex justify-content-center">
+        <button type="submit" class="button-red bg-red" onclick="checkDetailsCon()">Send Enquiry to AAFT</button>
+    </div>
+</form>
+
+<script>
+function selectSchool(e) {
+    let schoolProgram = {
+        //Start code added to fetch program dynamically
+                                    "1": ['Certificate in Camera and Lighting Techniques','Certificate in Video Editing and Sound Recording','Certificate in Screenplay Writing','Certificate in Production Direction and TV journalism','Certificate in Acting & Presentation','Diploma in Acting & Presentation','Diploma in Film and TV production','Diploma in Cinematography','Diploma in Filmmaking','Diploma in Post Production','B.A. in Acting for Film, Television and Web Series','M.Sc in Cinema (Specialization in Post-Production)','M.Sc in Cinema (Specialization in Direction)','M.Sc in Cinema (Specialization in Cinematography)','M.Sc in Cinema (Specialization in Acting)','B.Sc in Cinema (Specialization in Post-Production)','B.Sc in Cinema (Specialization in Direction)','B.Sc in Cinema (Specialization in Cinematography)','B.Sc in Cinema (Specialization in Acting)']
+                                    ,
+                                "2": ['Certificate Course in Production, Direction, and TV Journalism','Certificate Course in Radio Production and Jockeying','Certificate Course in News Anchoring','Diploma in TV Journalism and Communication','M.A. in Journalism & Mass Communication (Specialization in Sports Journalism)','M.A. in Journalism & Mass Communication (Specialization in Digital Media)','M.A in Journalism and Mass Communication','B.A. in Journalism & Mass Communication (Specialization in Sports Journalism) ','B.A. in Journalism & Mass Communication (Specialization in Digital Media)','B.A. in Journalism & Mass Communication']
+                                    ,
+                                "3": ['M.A. in Dance','Diploma in Dance','Certificate in Advanced & Digital DJ','Certificate in Sound Design','Certificate in Music Production','B.A. in Dance','Diploma in Indian Classical Vocal','Diploma in Classical Vocal (Specialization In Instrument)','Diploma in Sound Design','Diploma in Instrumental','Diploma in Music Production','Diploma in Western Vocal (Specialization in Instrument)','Master of Performing Arts (Specialization in Music Production)','M.A. in Vocal (Specialization in Classical/Western Vocal)','B.Sc in Sound Design','B.A. in Instrumental (Specialization in Classical/Western Instrument)','B.A. in Vocal (Specialization in Classical/Western Vocal)','B.A of Performing Arts (Specialization in Music Production)']
+                                    ,
+                                "4": ['Certificate in Modelling','Diploma in Makeup and Styling','Diploma in Fashion Design','PG Diploma in Fashion Communication','PG Diploma in Fashion Design','Diploma in Fashion Communication','M.Sc. in Fashion Design','B.Sc. in Fashion Communication','B.Sc. in Fashion Design','B.Des. in Fashion Design']
+                                    ,
+                                "5": ['PG Diploma in Interior Design','Diploma in Interior Design','M.Sc. in Interior Design','B.Sc. in Interior Design','B.Des. in Interior Design']
+                                    ,
+                                "6": ['B.Des in 3D Animation & Visual Effects','Certificate in Graphic Design','Diploma in 3D Animation & VFX','Diploma in Unreal Engine','M.Sc. in Animation & VFX','M.Sc. in Game Design & Development','B.Sc. in Animation & Visual effects','B.Sc. in Game Design & Development']
+                                    ,
+                                "7": ['Certificate in Still Photography','Diploma in Still Photography','M.A. in Still Photography','B.A. in Still Photography']
+                                    ,
+                                "8": ['Certificate in Digital Marketing','Diploma in Digital Marketing','M.Sc. in Digital Marketing','B.Sc. in Digital Marketing']
+                                    ,
+                                "9": ['Diploma in Advertising & Brand Communication','Diploma in PR and Events','Diploma in Event Management','M.A. in Advertising and Brand Communication','M.A. in PR and Events','BA in Event Management']
+                                    ,
+                                "14": ['Diploma in Bakery','B.Sc in Culinary Arts','Certificate in Bakery','Diploma in Culinary Arts - 6 Months','Diploma in Culinary Arts - 1 Year','Diploma in Travel & Tourism Management','Diploma in Hotel Management','BHM in Culinary Arts ','Bachelor of Travel & Tourism Management','Bachelor of Hotel Management']
+                                    ,
+                                "23": ['B.Sc. in Nutrition & Dietetics']
+                                    ,
+                                "26": ['Masters of Fine Arts','Bachelor of Fine Arts']
+                                    ,
+                                "28": ['B.Sc in Artificial Intelligence','Diploma in Data Science','M.Sc. in Data Science','B.Sc. in Data Science']
+                                    ,
+                                "29": ['Diploma in Acting for film and TV','Diploma in Acting and Presentaion','MA in Acting for film, TV and web series','BA in Acting for Film, TV and Web Series']
+                                    //End code added to fetch program dynamically
+    }
+
+    let selectedProgram = schoolProgram[e.target.value] || []
+    if (!selectedProgram.length) {
+        return $('#txtProgramCon').html('<option value="">Select school first</option>');
+    }
+
+    let optionValue = '<option value="">Select program</option>';
+
+    for (value of selectedProgram) {
+        let option = `<option value="${value}">${value}</option>`
+        optionValue += option;
+    }
+    // console.log(optionValue)
+    $('#txtProgramCon').html(optionValue);
+}
+
+function selectStateProg(e) {
+    let stateCity = {
+        //Start code added to fetch program dynamically
+                                    "1": ['Nicobar','North and Middle Andaman','South Andaman']
+                                    ,
+                                "2": ['Anantapur','Chittoor','East Godavari','Guntur','YSR Kadapa','Krishna','Kurnool','Prakasam','Nellore','Srikakulam','Vishakhapatnam','Vizianagaram','West Godavari']
+                                    ,
+                                "3": ['Anjaw','Changlang','East Kameng','East Siang','Kamle','Kra Daadi','Kurung Kumey','Leda Rada','Lohit','Longding','Lower Dibang Valley','Lower Siang','Lower Subansiri','Namsai','Pakke Kessang','Papum Pare','Siang','Shi Yomi','Tawang','Tirap','Upper Dibang Valley','Upper Siang','Upper Subansiri','West Kameng','West Siang']
+                                    ,
+                                "4": ['Charaideo','Dhemaji','Dibrugarh','Golaghat','Jorhat','Lakhimpur','Majuli','Sivasagar','Tinsukia','Bishwanath','Darrang','Sonitpur','Udalguri','Baksa','Chirang','Kokrajhar','Bajali','Barpeta','Bongaigaon','Dhubri','Goalpara','Nalbari','Kamrup','Kamrup Metropolitan','South Salmara-Mankachar','Dima Hasao','East Karbi Anglong','Hojai','Morigaon','Nagaon','West Karbi Anglong','Cachar','Hailakandi','Karimganj']
+                                    ,
+                                "5": ['Bhojpur','Buxar','Kaimur','Nalanda','Patna','Rohtas','East Champaran','West Champaran','Muzaffarpur','Sheohar','Sitamarhi','Vaishali','Saran','Siwan','Darbhanga','Gopalganj','Madhubani','Samastipur','Madhepura','Saharsa','Supaul','Araria','Katihar','Kishanganj','Purnia','Banka','Bhagalpur','Begusarai','Jamui','Khagaria','Lakhisarai','Munger','Sheikhpura','Arwal','Aurangabad','Gaya','Jehanabad','Nawada']
+                                    ,
+                                "6": ['Chandigarh ']
+                                    ,
+                                "7": ['Balod','Baloda Bazar','Balrampur','Bastar','Bemetara','Bijapur','Bilaspur','Dantewada','Dhamtari','Durg','Gariaband','Gaurela-Pendra-Marwahi','Janjgir-Champa','Jashpur','Kabirdham','Kanker','Kondagaon','Korba','Koriya','Mahasamund','Mungeli','Narayanpur','Raigarh','Raipur','Rajnandgaon','Sukma','Surajpur','Surguja']
+                                    ,
+                                "8": ['Dadra and Nagar Haveli']
+                                    ,
+                                "9": ['Daman','Diu']
+                                    ,
+                                "10": ['East Delhi','North Delhi','South Delhi','West Delhi']
+                                    ,
+                                "11": ['North Goa','South Goa']
+                                    ,
+                                "12": ['Ahmedabad','Amreli','Anand','Aravalli','Banaskantha','Bharuch','Bhavnagar','Botad','Chhota Udaipur','Dahod','Dang','Devbhoomi Dwarka','Gandhinagar','Gir Somnath','Jamnagar','Junagadh','Kheda','Kutch','Mahisagar','Mehsana','Morbi','Narmada','Navsari','Panchmahal','Patan','Porbandar','Rajkot','Sabarkantha','Surat','Surendranagar','Tapi','Vadodara','Valsad']
+                                    ,
+                                "13": ['Ambala','Bhiwani','Charkhi Dadri','Faridabad','Fatehabad','Gurugram','Hissar','Jhajjar','Jind','Kaithal','Karnal','Kurukshetra','Mahendragarh','Nuh','Palwal','Panchkula','Panipat','Rewari','Rohtak','Sirsa','Sonipat','Yamuna Nagar']
+                                    ,
+                                "14": ['Bilaspur','Chamba','Hamirpur','Kangra','Kinnaur','Kullu','Lahaul and Spiti','Mandi','Shimla','Sirmaur','Solan','Una']
+                                    ,
+                                "15": ['Anantnag','Bandipora','Baramulla','Badgam','Doda','Ganderbal','Jammu','Kathua','Kishtwar','Kulgam','Kupwara','Poonch','Pulwama','Rajouri','Ramban','Reasi','Samba','Shopian','Srinagar','Udhampur']
+                                    ,
+                                "16": ['Bokaro','Chatra','Deoghar','Dhanbad','Dumka','East Singhbhum','Garhwa','Giridih','Godda','Gumla','Hazaribag','Jamtara','Khunti','Koderma','Latehar','Lohardaga','Pakur','Palamu','Ramgarh','Ranchi','Sahibganj','Seraikela Kharsawan','Simdega','West Singhbhum']
+                                    ,
+                                "17": ['Bagalkot','Ballari','Belagavi','Bengaluru Rural','Bengaluru Urban','Bidar','Chamarajnagar','Chikkaballapur','Chikkamagaluru','Chitradurga','Dakshina Kannada','Davanagere','Dharwad','Gadag','Hassan','Haveri','Kalaburagi','Kodagu','Kolar','Koppal','Mandya','Mysuru','Raichur','Ramanagara','Shivamogga','Tumakuru','Udupi','Uttara Kannada','Vijayapura','Vijayanagara','Yadgir']
+                                    ,
+                                "18": ['Alappuzha','Ernakulam','Idukki','Kannur','Kasaragod','Kollam','Kottayam','Kozhikode','Malappuram','Palakkad','Pathanamthitta','Thiruvananthapuram','Thrissur','Wayanad']
+                                    ,
+                                "19": ['Lakshadweep']
+                                    ,
+                                "20": ['Agar Malwa','Alirajpur','Anuppur','Ashok Nagar','Balaghat','Barwani','Betul','Bhind','Bhopal','Burhanpur','Chachauda','Chhatarpur','Chhindwara','Damoh','Datia','Dewas','Dhar','Dindori','Guna','Gwalior','Harda','Hoshangabad','Indore','Jabalpur','Jhabua','Katni','Khandwa','Khargone','Maihar','Mandla','Mandsaur','Morena','Nagda','Narsinghpur','Neemuch','Niwari','Panna','Raisen','Rajgarh','Ratlam','Rewa','Sagar','Satna','Sehore','Seoni','Shahdol','Shajapur','Sheopur','Shivpuri','Sidhi','Singrauli','Tikamgarh','Ujjain','Umaria','Vidisha']
+                                    ,
+                                "21": ['Ahmednagar','Akola','Amravati','Aurangabad','Beed','Bhandara','Buldhana','Chandrapur','Dhule','Gadchiroli','Gondia','Hingoli','Jalgaon','Jalna','Kolhapur','Latur','Mumbai City','Mumbai suburban','Nanded','Nandurbar','Nagpur','Nashik','Osmanabad','Palghar','Parbhani','Pune','Raigad','Ratnagiri','Sangli','Satara','Sindhudurg','Solapur','Thane','Wardha','Washim','Yavatmal']
+                                    ,
+                                "22": ['Bishnupur','Churachandpur','Chandel','Imphal East','Imphal West','Jiribam','Kakching','Kamjong','Kangpokpi','Noney','Pherzawl','Senapati','Tamenglong','Tengnoupal','Thoubal','Ukhrul']
+                                    ,
+                                "23": ['East Garo Hills','East Khasi Hills','East Jaintia Hills','North Garo Hills','Ri-Bhoi','South Garo Hills','South West Garo Hills','South West Khasi Hills','West Jaintia Hills','West Garo Hills','West Khasi Hills']
+                                    ,
+                                "24": ['Aizawl','Champhai','Hnahthial','Kolasib','Khawzawl','Lawngtlai','Lunglei','Mamit','Saiha','Saitual','Serchhip']
+                                    ,
+                                "25": ['Dimapur','Kiphire','Kohima','Longleng','Mokokchung','Mon','Noklak','Peren','Phek','Tuensang','Wokha','Zunheboto']
+                                    ,
+                                "26": ['Angul','Boudh','Bhadrak','Balangir','Bargarh','Balasore','Cuttack','Debagarh','Dhenkanal','Ganjam','Gajapati','Jharsuguda','Jajpur','Jagatsinghpur','Khordha','Kendujhar','Kalahandi','Kandhamal','Koraput','Kendrapara','Malkangiri','Mayurbhanj','Nabarangpur','Nuapada','Nayagarh','Puri','Rayagada','Sambalpur','Subarnapur','Sundargarh']
+                                    ,
+                                "27": ['Karaikal','Mahe','Puducherry','Yanam']
+                                    ,
+                                "28": ['Amritsar','Barnala','Bathinda','Firozpur','Faridkot','Fatehgarh Sahib','Fazilka','Gurdaspur','Hoshiarpur','Jalandhar','Kapurthala','Ludhiana','Mansa','Moga','Sri Muktsar Sahib','Pathankot','Patiala','Rupnagar','Sahibzada Ajit Singh Nagar','Sangrur','Shahid Bhagat Singh Nagar','Tarn Taran']
+                                    ,
+                                "29": ['Ajmer','Alwar','Bikaner','Barmer','Banswara','Bharatpur','Baran','Bundi','Bhilwara','Churu','Chittorgarh','Dausa','Dholpur','Dungarpur','Ganganagar','Hanumangarh','Jhunjhunu','Jalore','Jodhpur','Jaipur','Jaisalmer','Jhalawar','Karauli','Kota','Nagaur','Pali','Pratapgarh','Rajsamand','Sikar','Sawai Madhopur','Sirohi','Tonk','Udaipur']
+                                    ,
+                                "30": ['East Sikkim','North Sikkim','South Sikkim','West Sikkim']
+                                    ,
+                                "31": ['Ariyalur','Chengalpattu','Chennai','Coimbatore','Cuddalore','Dharmapuri','Dindigul','Erode','Kallakurichi','Kanchipuram','Kanyakumari','Karur','Krishnagiri','Madurai','Mayiladuthurai','Nagapattinam','Nilgiris','Namakkal','Perambalur','Pudukkottai','Ramanathapuram','Ranipet','Salem','Sivaganga','Tenkasi','Tirupur','Tiruchirappalli','Theni','Tirunelveli','Tirupattur','Thanjavur','Thoothukudi','Tiruvallur','Tiruvarur','Tiruvannamalai','Vellore','Viluppuram','Virudhunagar']
+                                    ,
+                                "32": ['Adilabad','Komaram Bheem Asifabad','Bhadradri Kothagudem','Hyderabad','Jagtial','Jangaon','Jayashankar Bhupalpally','Jogulamba Gadwal','Kamareddy','Karimnagar','Khammam','Mahabubabad','Mahbubnagar','Mancherial','Medak','Medchal','Mulugu','Narayanpet','Nalgonda','Nagarkurnool','Nirmal','Nizamabad','Peddapalli','Rajanna Sircilla','Ranga Reddy','Sangareddy','Siddipet','Suryapet','Vikarabad','Wanaparthy','Warangal (urban)','Warangal (rural)','Yadadri Bhuvanagiri']
+                                    ,
+                                "33": ['Dhalai','Gomati','Khowai','North Tripura','Sepahijala','South Tripura','Unokoti','West Tripura']
+                                    ,
+                                "34": ['Agra','Aligarh','Allahabad','Ambedkar Nagar','Amethi','Amroha','Auraiya','Azamgarh','Bagpat','Bahraich','Ballia','Balrampur','Banda','Barabanki','Bareilly','Basti','Bijnor','Budaun','Bulandshahr','Chandauli','Chitrakoot','Deoria','Etah','Etawah','Faizabad','Farrukhabad','Fatehpur','Firozabad','Gautam Buddh Nagar','Ghaziabad','Ghazipur','Gonda','Gorakhpur','Hamirpur','Hapur','Hardoi','Hathras','Jalaun','Jaunpur','Jhansi','Kannauj','Kanpur Dehat','Kanpur Nagar','Kasganj','Kaushambi','Kushinagar','Lakhimpur Kheri','Lalitpur','Lucknow','Maharajganj','Mahoba','Mainpuri','Mathura','Mau','Meerut','Mirzapur','Moradabad','Muzaffarnagar','Pilibhit','Pratapgarh','Raebareli','Rampur','Saharanpur','Sambhal','Sant Kabir Nagar','Bhadohi','Shahjahanpur','Shamli','Shravasti','Siddharthnagar','Sitapur','Sonbhadra','Sultanpur','Unnao','Varanasi']
+                                    ,
+                                "35": ['Almora','Bageshwar','Chamoli','Champawat','Dehradun','Haridwar','Nainital','Pauri Garhwal','Pithoragarh','Rudraprayag','Tehri Garhwal','Udham Singh Nagar','Uttarkashi']
+                                    ,
+                                "36": ['Alipurduar','Bankura','Paschim Bardhaman','Purba Bardhaman','Birbhum','Cooch Behar','Dakshin Dinajpur','Darjeeling','Hooghly','Howrah','Jalpaiguri','Jhargram','Kalimpong','Kolkata','Maldah','Murshidabad','Nadia','North 24 Parganas','Paschim Medinipur','Purba Medinipur','Purulia','South 24 Parganas','Uttar Dinajpur']
+                                    //End code added to fetch program dynamically
+    }
+
+    let selectedCity = stateCity[e.target.value] || []
+    if (!selectedCity.length) {
+        return $('#txtCityCon').html('<option value="">Select State first</option>');
+    }
+
+    let optionValue = '<option value="">Select City</option>';
+
+    for (value of selectedCity) {
+        let option = `<option value="${value}">${value}</option>`
+        optionValue += option;
+    }
+    // console.log(optionValue)
+    $('#txtCityCon').html(optionValue);
+}
+
+var specialKeys = new Array();
+specialKeys.push(8); //Backspace
+function IsNumeric(e) {
+    var keyCode = e.which ? e.which : e.keyCode
+    var ret = ((keyCode >= 48 && keyCode <= 57) || specialKeys.indexOf(keyCode) != -1);
+    //document.getElementById("error").style.display = ret ? "none" : "inline";
+    return ret;
+}
+
+function checkDetailsCon(){
+    var v1 = $('#txtNameCon').val();
+    var v2 = $('#txtEmailCon').val();
+    var v3 = $('#txtPhoneCon').val();
+    var v4 = $('#txtStateCon').val();
+    var v5 = $('#txtCityCon').val();
+    var v6 = $('#txtEduCon').val();
+    var v7 = $('#txtSchoolCon').val();
+    var v8 = $('#txtProgramCon').val();
+    var v9 = $('#txtCommentCon').val();
+
+    if (v1=='' || v2=='' || (v3<1111111111 ||  v3>9999999999) || v4=='' || v5=='' || v6=='' || v7=='' || v8=='' || v9=='')
+    {
+        alert('Fill all the fields');}
+    else{
+        var v2v1 = v2.includes("@");
+        var v2v2 = v2.includes(" ");
+        var v2v3 = v2.length;
+        var v2v3x = v2v3>=3;
+        //alert(v2v3x);
+        var v2v4 = v2.startsWith("@");
+        var v2v5 = v2.endsWith("@");
+        var v2v6 = v2.startsWith(".");
+        var v2v7 = v2.endsWith(".");
+        //if(v2v1==true && v2v2==false && v2v3x==true && v2v4==true && v2v5==true && v2v6==true && v2v7==true){
+        if(v2v1==true && v2v2==false && v2v3x==true && v2v4==false && v2v5==false && v2v6==false && v2v7==false)
+        {
+			SendOtps2(1);
+		}
+        else
+        {
+            alert('Invalid Data');
+        }
+    }
+}
+	
+function SendOtps2(mod) {
+        var mob = document.getElementById("txtPhoneCon").value;
+		var otp = document.getElementById("otpids2").value;
+        //var digit1 = document.getElementById("digit1").value;
+        //var digit2 = document.getElementById("digit2").value;
+        //var digit3 = document.getElementById("digit3").value;
+        //var digit4 = document.getElementById("digit4").value;
+        //var otp = digit1+digit2+digit3+digit4;
+      var xhttp = new XMLHttpRequest();
+      
+      xhttp.onreadystatechange = function() {
+
+      if (this.readyState == 4 && this.status == 200) {
+            //alert(this.responseText);
+            if(this.responseText=="OTP verified success"){
+                document.getElementById("setstatus").innerHTML = '<span><img class="varify-icon-width" src="https://aaft.com/assets/Images/green-verified-.png">Verified</span>';
+                document.getElementById("digithide01").style.display = "none";
+                document.getElementById("digithide02").style.display = "none";
+                document.getElementById("mobvery").innerHTML = '<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">Click to Continue</span></button>';
+                 
+            }
+          document.getElementById("otpmsgs2").innerHTML = this.responseText;
+        }
+      };
+      //xhttp.open("GET", "http://127.0.0.1:8000/assets/number_varification.php?mode="+mod+"&mobile="+mob+"&otp="+otp, true); //for local
+      xhttp.open("GET", "https://aaft.com/assets/number_varification.php?mode="+mod+"&mobile="+mob+"&otp="+otp, true); //for server
+      xhttp.send();
+      //alert("https://aaft.com/assets/number_varification.php?mode="+mod+"&mobile="+mob+"&otp="+otp);
+    }
+</script>
+
+                        </div>
+        </div>
+        
+        <!--  -->
+        <!-- <h3 class="pt-3">Page not found.</h3> -->
+    </div>
+    </div>
+</section>    
+
+
+    
+
+    <script src="../js/jquery-3.5.1.slim.min.js" crossorigin="anonymous"></script>
+    <script src="../js/popper.min.js" crossorigin="anonymous"></script>
+    <script src="../js/bootstrap.min.js" crossorigin="anonymous"></script>
+    <script src="../js/owl.carousel.min.js"></script>
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script> -->
+
+    <script>
+        $(document).ready(function () {
+
+            $('#banner-carousel').owlCarousel({
+                loop: true,
+                mouseDrag: true,
+                touchDrag: true,
+                pullDrag: true,
+                dots: false,
+                autoplay: false,
+                items: 1,
+                navSpeed: 700,
+                navText: ['', ''],
+                nav: false,
+                autoplayHoverPause: true
+            });
+
+            $('#companiesHiring').owlCarousel({
+                loop: true,
+                mouseDrag: true,
+                touchDrag: true,
+                pullDrag: true,
+                dots: false,
+                autoplay: false,
+                items: 4,
+                margin: 20,
+                autoWidth: true,
+                autoplayHoverPause: true,
+                navSpeed: 500,
+                navText: ['', ''],
+                nav: false
+            });
+
+            $('#aaftLife').owlCarousel({
+                loop: true,
+                mouseDrag: true,
+                touchDrag: true,
+                pullDrag: true,
+                dots: false,
+                autoplay: true,
+                items: 4,
+                margin: 10,
+                autoWidth: true,
+                autoplayHoverPause: true,
+                navSpeed: 700,
+                navText: ['', ''],
+                nav: false
+            });
+
+            $('#imgSlide-carousel').owlCarousel({
+                loop: true,
+                mouseDrag: true,
+                touchDrag: true,
+                pullDrag: true,
+                dots: false,
+                autoplay: false,
+                items: 2,
+                margin: 6,
+                navSpeed: 700,
+                navText: ['', ''],
+                nav: false,
+                autoplayHoverPause: true
+            });
+
+            $('#imgText-carousel').owlCarousel({
+                // loop: true,
+                mouseDrag: true,
+                touchDrag: true,
+                pullDrag: true,
+                dots: false,
+                autoplay: false,
+                items: 2,
+                autoWidth: true,
+                margin: 60,
+                navSpeed: 700,
+                navText: ['', ''],
+                nav: false,
+            });
+
+            $('#directors-carousel').owlCarousel({
+                loop: true,
+                mouseDrag: true,
+                touchDrag: true,
+                pullDrag: true,
+                autoplay: false,
+                items: 3,
+                stagePadding: 60,
+                center: true,
+                navSpeed: 700,
+                nav: true,
+                navText: ["<img src='assets/Images/left-arrow.svg'>", "<img src='assets/Images/right-arrow.svg'>"],
+                autoplayHoverPause: true,
+                dots: true,
+                dotClass: 'custDot',
+                dotsClass: 'd-flex justify-content-center'
+            });
+
+        });
+    </script>
+
+
+
+
+<footer class="footerwrap ">
+    <div class="container">
+        <div class="row justify-content-end">
+            <div class="col-md-3">
+                <div class="footercont">
+                    <h3>Our Address</h3>
+                    <div class="footer-logo">
+                        <a href=""><img src="aaftlogo-footer.webp" class="img-fluid" alt="footer logo"></a>
+                    </div>
+                    <h4>Marwah Studios <br>Complex</h4>
+                    <p>FC-14/15, Sector-16A,<br>Noida Film City,<br>Uttar Pradesh, India</p>
+                    <div class="detailnumbers">
+                        <!--<p>Call Us : <a href="tel:18001026066" style="color: #2073BE;">18001026066</a></p>-->
+                        <p>Call Us : <a href="tel:09811014536" style="color: #2073BE;">09811014536</a>, <a href="tel:09811013654" style="color: #2073BE;">09811013654</a></p>
+                    </div>
+                    <a href="mailto:help@aaft.com" style="color: #fff">Email: help@aaft.com</a>
+
+                    <div class="social-media-footer">
+                        <a class="text-white" href="https://www.facebook.com/aaftindia"><i class="bx bxl-facebook"></i></a>
+                        <a class="text-white" href="https://twitter.com/aaftindia?lang=en"><i class="bx bxl-twitter"></i></a>
+                        <a class="text-white" href="https://www.youtube.com/c/AAFTSCHOOL"><i class="bx bxl-youtube"></i></a>
+                        <a class="text-white" href="https://www.instagram.com/aaft_india/"><i class="bx bxl-instagram"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="footercont footermob">
+                    <h3>Admission <br>Details</h3>
+                    <ul class="list-unstyled">
+                        <li><a href="/admission-information">Online Admission</a></li>
+                        <li><a href="/apply-now">How to Apply</a></li>
+                        
+                        
+                        <li><a href="/academic-calender">Academic Calendar</a></li>
+                        
+                        
+                        <li>
+                        <a href="https://aaft.com/ad/icici/diploma.php">Pay Diploma Fees</a>
+                      </li>
+                      <li>
+                        <a href="https://aaft.com/ad/hdfc/payment.php">Pay Degree Program Fees</a>
+                      </li>
+					  <!-- <li>
+	                    <a href="http://m.p-y.tm/asms_web">Short Term payment (Paytm)</a>
+	                  </li> -->
+                    </ul>
+                </div>
+
+            </div>
+            <div class="col-md-3">
+                <div class="footercont footermob">
+                    <h3>Schools</h3>
+                    <ul class="list-unstyled">
+                      <li><a href="/schoolofcinema">Cinema</a></li>
+	                  <li><a href="/schoolofmasscommunication">Journalism &amp; Mass Communication</a></li>
+	                  <li><a href="/schoolofphotography">Photography</a></li>
+	                  <li><a href="/schoolofadvertising">Advertising, PR &amp; Events</a></li>
+	                  <li><a href="/schooloffinearts">Music</a></li>
+	                  <li><a href="/schooloffashion">Fashion Design</a></li>
+					  <li><a href="/schoolofinterior">Interior Design</a></li>
+	                  <li><a href="/schoolofanimation">Animation</a></li>
+	                  <li><a href="/schoolofdatascience">Data Science</a></li>
+	                  <li><a href="/schoolofdigitalmarketing">Digital Marketing</a></li>
+	                  <li><a href="/school-of-hospitality-and-tourism">Hospitality &amp; Tourism</a></li>
+					  <li><a href="/schooloffineart">Fine Arts</a></li>
+					  <li><a href="/school-of-health-wellness">Health &amp; Wellness</a></li>
+                      <li><a href="/schoolofdramaacting">Drama &amp; Acting</a></li>
+                    </ul>
+
+                </div>
+
+
+            </div>
+            <div class="col-md-3">
+                <div class="footercont footermob">
+                    <h3>About</h3>
+                    <ul class="list-unstyled">
+                        <li><a href="/about-us">About AAFT</a></li>
+                        <li><a href="/history">History</a></li>
+                        <li><a href="/core-advisory">Our Core Advisory</a></li>
+                        <li><a href="/about-us-leadership">Leaderships</a></li>
+                        
+                        <li><a href="/research-and-innovations">Research and Innovation</a></li>
+
+                    </ul>
+
+                </div>
+
+
+
+            </div>
+            <div class="col-md-3">
+                <div class="footercont footermob">
+                    <div class="footercont footerbottom footermob newfooteradd">
+                        <h3>Faculty and <br>Placements</h3>
+                        <ul class="list-unstyled">
+                            <li><a href="/all-placements">Placement Center</a></li>
+                            <li><a href="/alumni">Alumni</a></li>
+                            <li><a href="/faculty-list-area-wise">Our Faculty</a></li>
+                            
+                        </ul>
+                    </div>
+
+                </div>
+
+            </div>
+            <div class="col-md-3">
+                <div class="footercont footermob">
+
+                    <div class="footercont footerbottom footermob newfooteradd">
+                        <h3>Life @ AAFT</h3>
+                        <ul class="list-unstyled">
+                            <li><a href="/life-at-aaft">Student Life</a></li>
+                            <li> <a href="/aaft-life-campus">Our Campus</a></li>
+                            <!--li><a href="/health-and-wellness">Health and Wellness</a></li-->
+                            <li><a href="/events">Events</a></li>
+                            
+                            <li><a href="/celebrity-interactions">Celebrity Interaction</a></li>
+
+                        </ul>
+
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-md-3">
+                <div class="footercont footermob">
+                    <div class="footercont footerbottom footermob newfooteradd">
+                        <h3>Blog</h3>
+                        <ul class="list-unstyled">
+                            <li><a href="https://aaft.com/blog/">AAFT Blog</a></li>
+                            <!-- <li><a href="/blog-view">Blog View</a></li>                         -->
+                        </ul>
+
+                    </div>
+                    <div class="footercont footerbottom footermob">
+                        <h3>Contact</h3>
+                        <ul class="list-unstyled">
+                            <li><a href="/contact-us">Contact us</a></li>
+
+                        </ul>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <div class="copywrite-wrap">
+        <p><img src="copywriteicon.webp" class="img-fluid"> 2024 AAFT - Powered by AAFT</p>
+    </div>
+
+
+
+</footer>
+        <!-- <div class="footer-whatsaap">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="whatsaap-detail">
+                        <a class="d-flex justify-content-end" href="https://api.whatsapp.com/send?phone=918586972962" target="_blank" rel="noopener noreferrer"><img src="https://aaft.com/assets/Images/about-us/whatsaap-img-1.jpg" alt=""></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div> -->
+<!-- ------------ Footer Section End ------------ -->
+<style>
+
+* {
+  box-sizing: border-box;
+}
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  }
+
+.flex-item-left, .flex-item-right {
+  flex: 50%;
+}
+	.iticks-last-msg {margin-bottom: 30px;}
+	.iticks-pop-button {bottom: 50px;}
+	
+    .footerbar
+    {
+        display:none;
+        position:fixed;
+        z-index:999999;
+    bottom:0px;
+    left:0px;
+    height:40px;
+    width: 100%;
+    background: rgb(245, 246, 247);
+    padding:5px;
+    border: 1px solid rgb(226, 226, 226);
+    }
+    .foot-btn-left, .foot-btn-right{text-align: center;
+    font-size: 18px;}
+    .foot-btn-left{border-right: 1px solid rgb(180, 178, 178);}
+
+  @media  screen and (min-width: 200px) and (max-width: 480px){
+    	.footerbar{display:block !important; }
+	  		    
+      }
+</style>
+<div class="footerbar">
+    <div class="flex-container">
+        <div class="flex-item-left foot-btn-left"><a style="color:red;" href="tel:09811014536"><i class="fa fa-phone" style="font-size:22px;color:red"></i> &nbsp;Call Us</a></div>
+        <div class="flex-item-right foot-btn-right"><a style="color:red;" href="https://api.whatsapp.com/send/?phone=917827025325&amp;text=Hi, I would like to know more about the courses offered by AAFT Delhi NCR"><i class="fa fa-comments-o" style="font-size:22px;color:red"></i> &nbsp;WhatsApp</a></div>
+		
+    </div>
+  </div>
+
+<!-- GetButton.io widget -->
+<script>
+	$('#css_1').removeAttr('disabled');
+	$('#css_2').removeAttr('disabled');
+	$('#css_3').removeAttr('disabled');
+	$('#css_4').removeAttr('disabled');
+	$('#css_5').removeAttr('disabled');
+	$('#css_7').removeAttr('disabled');
+</script>	
+
+    <!-- /GetButton.io widget -->
+     <script src="../js/popper.min.js" crossorigin="anonymous"></script>
+    <script src="../js/bootstrap.min.js" crossorigin="anonymous"></script>
+    <script src="../js/owl.carousel.min.js"></script>
+    <script src="../js/script.js"></script>
+    <script src="../js/query.js"></script>
+
+<!--LeadSquared Tracking Code Start-->
+<script type="text/javascript" src="../js/Tracker.js"></script>
+<script type="text/javascript">
+      pidTracker('51703');
+</script>
+<!--LeadSquared Tracking Code End-->
+
+</body></html><!-- ------------ Footer Section Starts ------------ -->

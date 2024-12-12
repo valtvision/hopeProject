@@ -1,0 +1,458 @@
+#program-page .hero-section {
+  padding-bottom: 50px;
+}
+@media only screen and (max-width: 600px) {
+  #program-page .hero-section {
+    padding-bottom: 20px;
+  }
+}
+#program-page .hero-section .container {
+  position: relative;
+}
+@media only screen and (max-width: 600px) {
+  #program-page .hero-section .container {
+    padding: 0;
+    margin: 0;
+  }
+}
+#program-page .hero-section .container .hero-content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 40%;
+  height: 100%;
+  background-image: linear-gradient(-90deg, #fff 0%, transparent 100%);
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  transform: scale(0.9);
+}
+@media only screen and (min-width: 1300px) {
+  #program-page .hero-section .container .hero-content {
+    width: 40%;
+  }
+}
+@media only screen and (max-width: 600px) {
+  #program-page .hero-section .container .hero-content {
+    width: 100%;
+    position: relative;
+    height: auto;
+    padding: 30px 10px;
+    left: 0px;
+  }
+}
+#program-page .hero-section .container .hero-content h1 {
+  font: bold 50px/52px GothamBold;
+  color: #062f4f;
+}
+@media only screen and (max-width: 600px) {
+  #program-page .hero-section .container .hero-content h1 {
+    font: bold 30px/32px GothamBold;
+  }
+}
+#program-page .hero-section .container .hero-content p {
+  font: bold 18px/29px GothamBold;
+  color: #062f4f;
+}
+@media only screen and (max-width: 600px) {
+  #program-page .hero-section .container .hero-content p {
+    font: bold 14px/18px GothamBold;
+  }
+}
+#program-page .hero-section .container .hero-section-buttons {
+  display: flex;
+  flex-direction: column;
+}
+#program-page .hero-section .container .hero-section-buttons .btn-primary {
+  width: 60%;
+  background-color: transparent;
+  color: #062f4f;
+  transition: all 0.3s linear;
+}
+#program-page .hero-section .container .hero-section-buttons .btn-primary:hover {
+  background-color: #062f4f;
+  color: #fff;
+}
+#program-page .hero-section .container .apply-now {
+  margin-right: 10px;
+  background-color: #813772;
+  color: #fff;
+  font: bold 17px/30px "GothamBold" !important;
+  text-transform: uppercase;
+  width: 150px;
+  margin-bottom: 10px;
+}
+@media only screen and (max-width: 600px) {
+  #program-page .hero-section .container .apply-now {
+    font: bold 14px/18px GothamBold !important;
+  }
+}
+#program-page .hero-section .container .download-button {
+  border: 1px solid #813772;
+  color: #813772;
+  font: bold 17px/30px "GothamBold" !important;
+  text-transform: uppercase;
+  width: 300px;
+}
+@media only screen and (max-width: 600px) {
+  #program-page .hero-section .container .download-button {
+    font: bold 14px/18px GothamBold !important;
+  }
+}
+#program-page .hero-section p {
+  font: 300 17px/30px GothamBook !important;
+}
+#program-page .hero-section ul li {
+  font: 300 17px/30px GothamBook !important;
+}
+#program-page .recruiter-section {
+  padding: 30px 0px;
+  background-color: rgba(6, 47, 79, 0.05);
+}
+#program-page .recruiter-section .container h2 {
+  text-align: center;
+  font: bold 40px/88px "GothamBold" !important;
+}
+@media only screen and (max-width: 600px) {
+  #program-page .recruiter-section .container h2 {
+    font: bold 30px/35px GothamBold !important;
+  }
+}
+#program-page .recruiter-section .container .img-list {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+}
+@media only screen and (max-width: 600px) {
+  #program-page .recruiter-section .container .img-list {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+#program-page .recruiter-section .container .img-list .img-box {
+  width: 100%;
+}
+#program-page .recruiter-section .container .img-list .img-box img {
+  -o-object-fit: cover;
+     object-fit: cover;
+  width: 100%;
+  transform: scale(0.9);
+}
+#program-page .recruiter-section p {
+  font: 300 17px/30px GothamBook !important;
+}
+#program-page .recruiter-section ul li {
+  font: 300 17px/30px GothamBook !important;
+}
+#program-page .detail-structure {
+  padding: 50px 0px;
+}
+#program-page .detail-structure .container .row .col-sm-3 .sticky-top {
+  z-index: 2 !important;
+  top: 100px !important;
+}
+@media only screen and (max-width: 600px) {
+  #program-page .detail-structure .container .row .col-sm-3 .sticky-top {
+    margin-bottom: 20px;
+  }
+}
+#program-page .detail-structure .container .row .col-sm-3 .sticky-top a {
+  display: block;
+  font: bold 17px/30px "GothamBold" !important;
+  color: #813772;
+  text-transform: uppercase;
+  padding: 10px 0px;
+  transition: all 0.3s linear;
+  padding-left: 30px;
+}
+#program-page .detail-structure .container .row .col-sm-3 .sticky-top a:hover {
+  color: #fff;
+  background-color: #813772;
+}
+#program-page .detail-structure .container .row .col-sm-3 .sticky-top .active {
+  color: #fff;
+  background-color: #813772;
+}
+#program-page .detail-structure .container .row .about-section {
+  border-bottom: 1px solid rgba(6, 47, 79, 0.1);
+  padding-bottom: 30px;
+}
+#program-page .detail-structure .container .row .about-section .col-sm-6 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+#program-page .detail-structure .container .row .course-section {
+  padding: 50px 0px;
+}
+#program-page .detail-structure .container .row .course-section h2 {
+  font: bold 40px/88px GothamBold !important;
+  color: #062f4f;
+}
+@media only screen and (max-width: 600px) {
+  #program-page .detail-structure .container .row .course-section h2 {
+    font: bold 30px/35px GothamBold !important;
+  }
+}
+#program-page .detail-structure .container .row .course-section .course-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 15px;
+}
+@media only screen and (max-width: 600px) {
+  #program-page .detail-structure .container .row .course-section .course-list {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+#program-page .detail-structure .container .row .course-section .course-list .course-box {
+  padding: 5px;
+  border-radius: 6px;
+}
+@media only screen and (max-width: 600px) {
+  #program-page .detail-structure .container .row .course-section .course-list .course-box {
+    padding: 10px;
+  }
+}
+#program-page .detail-structure .container .row .course-section .course-list .course-box h4 {
+  color: #ff0000;
+  font: bold 24px/38px GothamBold;
+}
+#program-page .detail-structure .container .row .course-section .course-list .course-box p {
+  font: 300 17px/30px GothamBook !important;
+  color: #062f4f;
+}
+@media only screen and (max-width: 600px) {
+  #program-page .detail-structure .container .row .syllabus-section .container {
+    padding: 0;
+  }
+}
+#program-page .detail-structure .container .row .syllabus-section #accordion .card {
+  margin-bottom: 10px;
+  background-color: rgba(6, 47, 79, 0.05);
+}
+#program-page .detail-structure .container .row .syllabus-section #accordion .card .card-header {
+  padding: 0;
+  margin: 0;
+  border-radius: 4px;
+  background-color: transparent;
+}
+#program-page .detail-structure .container .row .syllabus-section #accordion .card .card-header button {
+  text-decoration: none;
+  display: flex;
+  width: 100%;
+  padding: 20px 0px;
+  padding-left: 25px;
+  position: relative;
+  font: bold 24px "GothamBold";
+  color: #813772;
+  background-color: transparent;
+}
+#program-page .detail-structure .container .row .syllabus-section #accordion .card .card-header button::before {
+  content: "";
+  position: absolute;
+  height: 2px;
+  width: 15px;
+  left: 5px;
+  top: 50%;
+  background-color: #813772;
+  transform: translateY(-50%);
+}
+#program-page .detail-structure .container .row .syllabus-section #accordion .card .card-header button:focus {
+  box-shadow: none;
+}
+#program-page .detail-structure .container .row .syllabus-section #accordion .card .card-body {
+  background-color: transparent;
+}
+#program-page .detail-structure .container .row .syllabus-section #accordion .card .card-body ul li {
+  font: normal 17px/30px GothamBook;
+  color: #191830;
+}
+#program-page .detail-structure .container .row .faculty-section {
+  padding: 50px 20px;
+  background-color: rgba(6, 47, 79, 0.05);
+}
+#program-page .detail-structure .container .row .faculty-section h2 {
+  background-repeat: no-repeat;
+  background-size: 7rem 3px;
+  background-image: linear-gradient(0deg, red, red);
+  background-position: top left;
+  padding-top: 5px;
+  margin-bottom: 20px;
+}
+#program-page .detail-structure .container .row .faculty-section h4 {
+  font: 500 19px/31px GothamBold;
+}
+#program-page .detail-structure .container .row .faculty-section span {
+  font: 500 14px/24px GothamBold;
+  text-transform: uppercase;
+  color: #062f4f;
+  opacity: 0.5;
+}
+#program-page .detail-structure .container .row .faculty-section a {
+  font: normal 14px/24px GothamBold;
+  display: flex;
+  align-items: center;
+  text-transform: uppercase;
+  color: #813772;
+}
+#program-page .detail-structure .container .row .faculty-section a i {
+  margin-right: 8px;
+}
+#program-page .detail-structure .container .row .faculty-section img {
+  padding: 5px;
+  border: 1px solid rgba(6, 47, 79, 0.2);
+}
+@media only screen and (max-width: 600px) {
+  #program-page .detail-structure .container .row .faculty-section .col-sm-3 {
+    margin-bottom: 20px;
+  }
+}
+#program-page .detail-structure .container .row .placement-section {
+  padding: 50px 20px;
+  background-color: rgba(6, 47, 79, 0.05);
+}
+#program-page .detail-structure .container .row .placement-section h2 {
+  background-repeat: no-repeat;
+  background-size: 7rem 3px;
+  background-image: linear-gradient(0deg, red, red);
+  background-position: top left;
+  padding-top: 5px;
+  margin-bottom: 20px;
+}
+#program-page .detail-structure .container .row .placement-section h4 {
+  font: 500 19px/31px GothamBold;
+}
+#program-page .detail-structure .container .row .placement-section span {
+  font: 500 14px/24px GothamBook;
+  text-transform: uppercase;
+  color: #062f4f;
+  opacity: 0.5;
+}
+@media only screen and (max-width: 600px) {
+  #program-page .detail-structure .container .row .placement-section .col-sm-3 {
+    margin-bottom: 20px;
+  }
+}
+#program-page .detail-structure .container .row .lab-and-equiment-section {
+  padding: 50px 20px;
+  background-color: rgba(6, 47, 79, 0.05);
+}
+#program-page .detail-structure .container .row .lab-and-equiment-section h2 {
+  background-repeat: no-repeat;
+  background-size: 7rem 3px;
+  background-image: linear-gradient(0deg, red, red);
+  background-position: top left;
+  padding-top: 5px;
+  margin-bottom: 20px;
+}
+#program-page .detail-structure .container .row .lab-and-equiment-section .lab-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+#program-page .detail-structure .container .row .lab-and-equiment-section .img-list {
+  display: grid;
+  grid-template-areas: "img1 img4" "img2 img4" "img3 img5";
+}
+#program-page .detail-structure .container .row .lab-and-equiment-section .img-list img {
+  width: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+#program-page .detail-structure .container .row .lab-and-equiment-section .img-list img:nth-child(1) {
+  grid-area: img1;
+}
+#program-page .detail-structure .container .row .lab-and-equiment-section .img-list img:nth-child(2) {
+  grid-area: img2;
+}
+#program-page .detail-structure .container .row .lab-and-equiment-section .img-list img:nth-child(3) {
+  grid-area: img3;
+}
+#program-page .detail-structure .container .row .lab-and-equiment-section .img-list img:nth-child(4) {
+  grid-area: img4;
+}
+#program-page .detail-structure .container .row .lab-and-equiment-section .img-list img:nth-child(5) {
+  grid-area: img5;
+}
+#program-page .detail-structure .container .row .workshop-section {
+  padding: 50px 20px;
+  background-color: rgba(6, 47, 79, 0.05);
+}
+#program-page .detail-structure .container .row .workshop-section h2 {
+  background-repeat: no-repeat;
+  background-size: 7rem 3px;
+  background-image: linear-gradient(0deg, red, red);
+  background-position: top left;
+  padding-top: 5px;
+  margin-bottom: 20px;
+}
+#program-page .detail-structure .container .row .workshop-section .workshop-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+#program-page .detail-structure .container .row .video-section {
+  padding: 50px 20px;
+  background-color: rgba(6, 47, 79, 0.05);
+}
+#program-page .detail-structure .container .row .video-section h2 {
+  background-repeat: no-repeat;
+  background-size: 7rem 3px;
+  background-image: linear-gradient(0deg, red, red);
+  background-position: top left;
+  padding-top: 5px;
+  margin-bottom: 20px;
+}
+@media only screen and (max-width: 600px) {
+  #program-page .detail-structure .container .row .video-section .col-sm-3,
+#program-page .detail-structure .container .row .video-section .col-sm-4 {
+    margin-bottom: 20px;
+  }
+}
+#program-page .detail-structure .container .row .other-section {
+  padding: 50px 10px;
+}
+#program-page .detail-structure .container .row .other-section h2 {
+  color: #062f4f;
+  font: bold 30px/78px GothamBold !important;
+  text-align: center;
+}
+@media only screen and (max-width: 600px) {
+  #program-page .detail-structure .container .row .other-section h2 {
+    font: bold 30px/35px GothamBold !important;
+  }
+}
+#program-page .detail-structure .container .row .other-section .other-box {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  padding-bottom: 20px;
+  background-color: rgba(6, 47, 79, 0.05);
+  padding: 10px;
+  align-items: center;
+}
+@media only screen and (max-width: 600px) {
+  #program-page .detail-structure .container .row .other-section .other-box {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+#program-page .detail-structure .container .row .other-section .other-box a {
+  color: #b82601;
+  font: 500 22px/33px "GothamBook";
+}
+@media only screen and (max-width: 600px) {
+  #program-page .detail-structure .container .row .other-section .other-box a {
+    font: bold 22px/33px "GothamBold";
+  }
+}
+#program-page .detail-structure .container .row .other-section .other-box span {
+  color: #191830;
+  font: 500 20px/33px "GothamBook";
+}
+#program-page .detail-structure p {
+  font: 300 17px/30px GothamBook !important;
+}
+#program-page .detail-structure ul li {
+  font: 300 17px/30px GothamBook !important;
+}
+#program-page .contact-form .form-card .form-control {
+  font-size: 16px !important;
+}

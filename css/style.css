@@ -2321,7 +2321,7 @@ a:focus {
 	bottom: 0;
 	width: 55.5%;
 	content: "";
-	background: white;
+	background: rgb(114, 92, 186);
 	z-index: -1;
 }
 

@@ -1,0 +1,194 @@
+:root {
+    --theme-red: #b82601;
+    --theme-blue: #062F4F;
+    --dark-blue: #191830;
+    --theme-light-blue: #813772;
+    --light-grey: rgb(6 47 79 / 7%);
+    --theme-grey: #eef2f5;
+}
+
+@font-face {
+    font-family: Gotham500;
+    src: url('../fonts/Gotham-Medium-Regular.ttf');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: GothamBook;
+    src: url('../fonts/Gotham-Book-Regular.otf');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: GothamBold;
+    src: url('../fonts/Gotham-Bold-Regular.ttf');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: GothamBlack;
+    src: url('../fonts/Gotham-Black-Regular.ttf');
+    font-display: swap;
+}
+
+/* ------Scroll Bar------- */
+
+::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 2px grey;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #d21e2b;
+    border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #d21e2b;
+}
+
+/* ------Scroll Bar------- */
+
+.button-white-transparent {
+    max-width: 190px;
+    width: 100%;
+    height: 50px;
+    background: transparent;
+    border: 2px solid #FFFFFF;
+    font: 16px Gotham500;
+    color: #FFFFFF;
+    border-radius: 6px;
+}
+
+.button-red-transparent {
+    max-width: 190px;
+    width: 100%;
+    height: 50px;
+    background: transparent;
+    border: 1.5px solid var(--theme-red);
+    font: 16px Gotham500;
+    color: var(--theme-red);
+    border-radius: 6px;
+}
+
+.button-blue-transparent {
+    max-width: 190px;
+    width: 100%;
+    height: 50px;
+    background: transparent;
+    border: 1.5px solid var(--theme-light-blue);
+    font: 16px Gotham500;
+    color: var(--theme-light-blue);
+    border-radius: 6px;
+}
+
+.button-red {
+    max-width: 190px;
+    width: 100%;
+    height: 40px;
+    background: var(--theme-red);
+    border: none;
+    font: 15px Gotham500;
+    color: #FFFFFF;
+    border-radius: 5px;
+}
+
+.button-white {
+    max-width: 190px;
+    width: 100%;
+    height: 46px;
+    background: #FFFFFF;
+    border: none;
+    font: 16px Gotham500;
+    color: var(--theme-blue);
+    border-radius: 6px;
+}
+
+.flex-1 {
+    flex: 1 !important;
+}
+
+.mb-20 {
+    margin-bottom: 20px !important;
+}
+
+.mb-25 {
+    margin-bottom: 25px !important;
+}
+
+.mb-30 {
+    margin-bottom: 30px !important;
+}
+
+.mb-35 {
+    margin-bottom: 35px !important;
+}
+
+.mb-40 {
+    margin-bottom: 40px !important;
+}
+
+.mb-45 {
+    margin-bottom: 45px !important;
+}
+
+.inset-0 {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.bg-gray {
+    background-color: rgba(6, 47, 79, 0.05);
+}
+
+/* Fonts */
+
+.font-18-G500 {
+    font: 18px Gotham500;
+}
+
+.font-18-G500-blue {
+    font: 18px Gotham500;
+    color: var(--theme-blue);
+}
+
+.font-18-G500-dark {
+    font: 18px Gotham500;
+    color: var(--dark-blue);
+}
+
+.font-20-G500-dark {
+    font: 20px/1.35 Gotham500;
+    color: var(--dark-blue);
+}
+
+.font-18-GBold-dark {
+    font: 18px GothamBold;
+    color: var(--dark-blue);
+}
+
+/* ------- Common Responsive-------  */
+
+@media (max-width:767px) {
+    .mb-md-20 {
+        margin-bottom: 20px !important;
+    }
+}
+
+
+.breadcrumb{
+    display: none !important;
+}
+
+/* Newly Changes Important */
+.newclasswrap{
+    display: none !important;
+}
