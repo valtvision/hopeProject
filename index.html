@@ -74,11 +74,11 @@
 									<li><a href="/#team" style="color: rgb(114,92,186);">Our Team</a></li>
 									<li><a href="/#batch" style="color: rgb(114,92,186);">Batch</a></li>
 									<li class="dropdown">
-										<a href="#" class="dropdown-toggle" data-toggle="dropdown" style="color: rgb(114,92,186);">Team <span class="caret"></span></a>
+										<a href="#" class="dropdown-toggle" data-toggle="dropdown" style="color: rgb(114,92,186);">Educators <span class="caret"></span></a>
 										<ul class="dropdown-menu">
-											<li><a href="/Lisa.html" style="color: rgb(114,92,186);">Lisa</a></li>
-											<li><a href="/Mukul.html" style="color: rgb(114,92,186);">Mukul</a></li>
-											<li><a href="/Savita.html" style="color: rgb(114,92,186);">Savita</a></li>
+											<li><a href="/Lisa.html" style="color: rgb(114,92,186);">Liza Verma</a></li>
+											<li><a href="/Mukul.html" style="color: rgb(114,92,186);">Mukul Saraogi</a></li>
+											<li><a href="/Savita.html" style="color: rgb(114,92,186);">Savita Jhingan</a></li>
 										</ul>
 									</li>
 									<li><a href="/courses.html" style="color: rgb(114,92,186);">Courses</a></li>
@@ -480,6 +480,10 @@
 						</div>
 					</div> -->
 					<!-- testimonial info -->
+
+
+					
+
 					<div class="info testimonial"  >
 						<div class="txt-frame wow fadeInLeft" data-wow-delay="0.6s" style="background-color: rgb(114,92,186); z-index: 1;" >
 							<h2 class="tild" id="portfolio" style="color: rgb(185, 185, 185)">LIFE  @ HOPE</h2>
@@ -586,7 +590,12 @@
 							</div>
 						</div>
 					</div>
+
 					
+					
+					
+
+
 					<!-- blogs info -->
 					<div class="info blogs">
 						<div class="img-frame">
@@ -627,20 +636,24 @@
 						</div>
 					</div>
 
+
+
+					
+
 					
 					<!-- price info -->
-					<div class="info price">
+					<div class="info price" style="align-items: center;">
 						<div class="img-frame wow fadeInLeft" data-wow-delay="0.6s" id="pricing">
 							<h2 class="tild" style="color: rgb(185, 185, 185)">PRICING</h2>
 							<!-- <span class="num">06</span> -->
 						</div>
 						<div class="txt-frame">
-							<ul class="pricing">
-								<li class="wow fadeInUp" data-wow-delay="0.6s">
+							<ul class="pricing grid-layout">
+								<li class="wow fadeInUp" data-wow-delay="0.6s" style="width:70%; margin-left: 50px;">
 									<div class="icon">
 										<div class="ico-text">
 											<div class="ico-box">
-												<span class="price"><sup>₹</sup>34,999/-</span>
+												<!-- <span class="price"><sup>₹</sup>34,999/-</span> -->
 												<span class="month">3 Months</span>
 											</div>
 										</div>
@@ -648,23 +661,23 @@
 									<strong class="package">Short Term</strong>
 									<a href="#" class="plan" onclick="openModal()">SELECT PLAN</a>
 								</li>
-								<li class="wow fadeInUp" data-wow-delay="0.8s">
+								<li class="wow fadeInUp" data-wow-delay="0.8s" style="width:70%">
 									<div class="icon">
 										<div class="ico-text">
 											<div class="ico-box">
-												<span class="price"><sup>₹</sup>119,449/-</span>
+												<!-- <span class="price"><sup>₹</sup>119,449/-</span> -->
 												<span class="month">12 Months</span>
 											</div>
 										</div>
 									</div>
-									<strong class="package">Long Term</strong>
+									<strong class="package">Diploma</strong>
 									<a href="#" class="plan" onclick="openModal()">SELECT PLAN</a>
 								</li>
-								<li class="wow fadeInUp" data-wow-delay="0.8s">
+								<li class="wow fadeInUp" data-wow-delay="0.8s" style="width:70%; margin-left: 50px;">
 									<div class="icon">
 										<div class="ico-text">
 											<div class="ico-box">
-												<span class="price"><sup>₹</sup>64,499/-</span>
+												<!-- <span class="price"><sup>₹</sup>64,499/-</span> -->
 												<span class="month">6 Months</span>
 											</div>
 										</div>
@@ -672,20 +685,63 @@
 									<strong class="package">Mid Term</strong>
 									<a href="#" class="plan" onclick="openModal()">SELECT PLAN</a>
 								</li>
-								<li class="wow fadeInUp" data-wow-delay="0.8s">
+								<li class="wow fadeInUp" data-wow-delay="0.8s" style="width:70%">
 									<div class="icon">
 										<div class="ico-text">
 											<div class="ico-box">
-												<span class="price"><sup>₹</sup>179,999/-</span>
+												<!-- <span class="price"><sup>₹</sup>179,999/-</span> -->
 												<span class="month">18 Months</span>
 											</div>
 										</div>
 									</div>
-									<strong class="package">Diploma</strong>
+									<strong class="package">Advanced Diploma</strong>
 									<a href="#" class="plan" onclick="openModal()">SELECT PLAN</a>
 								</li>
 							</ul>
 						</div>
+						<style>
+
+.grid-layout {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* 2 columns */
+    /* gap: 10px; Spacing between grid items */
+	/* width:  */
+    list-style: none; /* Remove bullet points from list */
+    padding: 0;
+    margin: 0;
+}
+
+.grid-layout li {
+    background: #f9f9f9; /* Example background color */
+    padding: 20px;
+    border: 1px solid #ddd; /* Optional border */
+    text-align: center;
+    border-radius: 8px; /* Optional rounded corners */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional shadow */
+}
+
+.grid-layout .icon {
+    margin-bottom: 10px;
+}
+
+.grid-layout .package {
+    font-size: 1.2rem;
+    font-weight: bold;
+    display: block;
+    margin: 10px 0;
+}
+
+.grid-layout .plan {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.grid-layout .plan:hover {
+    text-decoration: underline;
+}
+
+						</style>
 					</div>
 					
 					<!-- Modal Structure -->

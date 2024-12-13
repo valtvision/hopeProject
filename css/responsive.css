@@ -932,7 +932,7 @@
   }
 
   .info.team .img-frame .image {
-    display: none;
+    /* display: none; */
   }
 
   .info.team .img-frame .text {
